@@ -13,6 +13,8 @@ This Power BI dashboard provides an executive-level view of sales performance, p
 
 The objective of the project was to transform raw sales data into actionable business insights that support strategic decision-making.
 
+## Dashboard Preview
+
 ![Dashboard Screenshot](dashboard-screenshot.png)
 
 ## Key Metrics
@@ -51,12 +53,11 @@ The objective of the project was to transform raw sales data into actionable bus
 
 This project uses a simulated retail sales dataset created for portfolio and learning purposes.
 
-## Dashboard Preview
-
-
-
 ## Files Included
 
-- Power BI Dashboard (.pbix)
 - Dashboard Screenshot (.png)
 - Project Documentation
+- customers.csv
+- orders.csv
+- products.csv
+- regions.csv
