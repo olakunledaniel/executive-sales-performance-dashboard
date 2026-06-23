@@ -1,0 +1,14 @@
+RegionCode,Region,State,Zone,Sales_Manager,Target_Revenue (NGN)
+R01,South West,Lagos,SW,Adewale Ogundimu,8000000
+R02,South West,Ogun,SW,Adewale Ogundimu,3000000
+R03,South West,Oyo,SW,Adewale Ogundimu,3500000
+R04,South East,Enugu,SE,Chioma Eze,2500000
+R05,South East,Anambra,SE,Chioma Eze,2000000
+R06,South South,Rivers,SS,Emeka Obi,4000000
+R07,South South,Delta,SS,Emeka Obi,2000000
+R08,North Central,FCT,NC,Unassigned,5000000
+R09,North Central,Kogi,NC,Musa Danladi,1200000
+R10,North West,Kano,NW,Fatima Umar,3000000
+R11,North West,Kaduna,NW,Fatima Umar,2200000
+R12,North East,Borno,NE,Suleiman Ringim,1500000
+R13,North East,Gombe,NE,Suleiman Ringim,1000000

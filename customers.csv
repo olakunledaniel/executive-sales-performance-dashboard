@@ -1,0 +1,1136 @@
+CustomerID,Customer Name,Phone,City,RegionCode,Country,Segment,Annual Spend (NGN),Clean Date,Email Clean
+C0524,Modupe Abubakar,0814 1922425,Wudil,R10,Nigeria,Retail,3264340,03-11-21,modupe.abubakar@company.ng
+C0125,Fatima Okonkwu,08107192980,Biu,R12,Nigeria,SME,2998747,27-11-20,fatima.okonkwu@company.ng
+C1137,Ezinne Adeyemi,08191184408,Lagos,R01,Nigeria,Wholesale,909138,28-06-21,e.adeyemi@outlook.com
+C0994,Abuja Onuoha Ltd,Unknown,Surulere,R01,Nigeria,Corporate,4091744,04-04-22,maryam.onuoha@company.ng
+C0685,Adeola Anozie,08059841787,Abuja,R08,Nigeria,Wholesale,4772182,17-11-22,adeola47@yahoo.com
+C0015,Nnamdi Ibrahim,08133258447,Oji River,R04,Nigeria,Wholesale,3215266,26-12-18,nnamdi.ibrahim@company.ng
+C0807,Pronigeria Ezeani Enterprises,08131451653,Eleme,R06,Nigeria,Corporate,3990691,06-02-18,abdullahi54@yahoo.com
+C0650,Chibuzor Obi,08151229037,Port Harcourt,R06,Nigeria,Wholesale,4671128,14-12-18,c.obi@outlook.com
+C0668,Ramat Funtua,08197303710,Agbor,R07,Nigeria,SME,94182,06-02-19,ramat28@yahoo.com
+C1072,Hauwa Nwankwo,0807 7562989,Nsukka,R04,Nigeria,Wholesale,1509267,21-04-22,h.nwankwo@outlook.com
+C0203,Tochukwu Onuoha,08112849262,Onitsha,R05,Nigeria,Retail,1939553,19-07-21,tochukwu63@yahoo.com
+C0712,Unity Tukur & Associates,08101797934,Warri,R07,Nigeria,Corporate,4605373,03-06-23,safiya.tukur@company.ng
+C0477,Fatima Yusuf,08017954079,Ijebu-Ode,R02,Nigeria,Wholesale,1658791,12-08-20,Invalid Email
+C0457,Somtochukwu Babangida,08036270395,Kabba,R09,Nigeria,Wholesale,3901358,08-06-22,somtochukwu.babangida@company.ng
+C0553,Khadijah Kankara,0816 9860264,Osogbo,R03,Nigeria,Retail,1612899,25-05-21,k.kankara@outlook.com
+C0236,Obinna Lawal,0801 8595100,Sapele,R07,Nigeria,Wholesale,628745,26-10-22,obinna.lawal@gmail.com
+C0061,Hauwa Ugwu,08139579589,Surulere,R01,Nigeria,Retail,600864,19-03-18,hauwa.ugwu@gmail.com
+C0530,Modupe Eze,08097760532,Ijebu-Ode,R02,Nigeria,Wholesale,197490,01-04-22,m.eze@outlook.com
+C0545,Yahaya Okeke,08106958632,Ibadan,R03,Nigeria,Retail,1221117,09-05-21,yahaya.okeke@gmail.com
+C1047,Greenfield Chukwu Integrated Services,08112352758,Zaria,R11,Nigeria,Corporate,3252707,08-06-21,Invalid Email
+C0888,Blessing Nzeka,0809 9807784,Surulere,R01,Nigeria,SME,4648870,07-01-23,blessing7@yahoo.com
+C0673,Damilola Okafor,08105642055,Ikeja,R01,Nigeria,Retail,138015,24-05-21,damilola85@yahoo.com
+C0003,Lawal Danladi,08174172382,Ibadan,R03,Nigeria,Retail,658025,12-10-20,lawal.danladi@company.ng
+C0698,Nkechi Obiechina,08095268520,Ekwulobia,R05,Nigeria,Retail,1706005,15-07-22,n.obiechina@outlook.com
+C0959,Adeola Musa,08066272033,Eleme,R06,Nigeria,Unknown Segment,2503841,17-06-21,adeola.musa@gmail.com
+C0946,Obinna Abdullahi,0817 6271862,Lekki,R01,Nigeria,Retail,2672022,08-10-22,obinna.abdullahi@company.ng
+C0832,Kano Aliyu Enterprises,08159843510,Nsukka,R04,Nigeria,Corporate,193986,21-02-20,u.aliyu@outlook.com
+C1152,Sunrise Makarfi & Sons,08138178368,Ogbomoso,R03,Nigeria,Corporate,2805264,05-02-22,amina34@yahoo.com
+C0333,Olamide Kankara,08011885974,Surulere,R01,Nigeria,SME,3412152,17-01-18,olamide.kankara@gmail.com
+C0269,Safiya Adeyemi,0808 4494257,Lokoja,R09,Nigeria,Retail,3079716,15-07-18,safiya.adeyemi@gmail.com
+C0013,Chioma Okoro,08188124540,Ekwulobia,R05,Nigeria,Retail,4691524,17-12-19,c.okoro@outlook.com
+C1162,Blessing Okonkwo,08192500103,Gwagwalada,R08,Nigeria,Retail,1558143,17-02-20,blessing.okonkwo@company.ng
+C0025,Maryam Umar,0812 2003818,Okene,R09,Nigeria,Wholesale,2947808,15-05-22,maryam.umar@company.ng
+C0027,Uchenna Ezeani,0813 6706714,Bonny,R06,Nigeria,Retail,1840959,15-08-21,uchenna.ezeani@gmail.com
+C0349,Fatima Garba,08096444063,Dukku,R13,Nigeria,Retail,323808,02-02-20,f.garba@outlook.com
+C0533,Apex Obiechina Resources Ltd,08065835911,Kafanchan,R11,Nigeria,Corporate,1498116,07-02-19,amarachi.obiechina@company.ng
+C0620,Taiwo Abubakar,08163933043,Kaduna,R11,Nigeria,Retail,2614843,01-08-20,t.abubakar@outlook.com
+C0602,Halima Anozie,08147382926,Obio-Akpor,R06,Nigeria,Wholesale,4551437,20-11-18,halima.anozie@company.ng
+C0089,Lawal Abdullahi,08127003904,Ijebu-Ode,R02,Nigeria,Retail,1921446,04-05-21,lawal.abdullahi@gmail.com
+C0797,Amina Chibueze,08016628169,Ekwulobia,R05,Nigeria,Retail,2028935,28-07-19,amina.chibueze@gmail.com
+C0709,Oluwaseun Ihejirika,08122448974,Warri,R07,Nigeria,Unknown Segment,4263287,09-02-21,o.ihejirika@outlook.com
+C0670,Ebuka Onuoha,08076002822,Kaduna,R11,Nigeria,Wholesale,1809271,24-05-22,ebuka.onuoha@company.ng
+C0237,Agrofirst Onuoha Resources Ltd,0811 9691034,Kuje,R08,Nigeria,Corporate,3046366,25-09-18,modupe.onuoha@gmail.com
+C0725,Amina Okeke,08134887722,Okene,R09,Nigeria,Retail,3280280,09-08-22,a.okeke@outlook.com
+C0919,Safiya Waziri,08051681127,Zaria,R11,Nigeria,Wholesale,2829420,03-05-23,safiya85@yahoo.com
+C0126,Uchenna Kwankwaso,08164714066,Eleme,R06,Nigeria,Retail,2421343,27-01-20,u.kwankwaso@outlook.com
+C0302,Uche Okeke,08166943218,Oji River,R04,Nigeria,Wholesale,872594,28-03-19,uche.okeke@gmail.com
+C0766,Rukayat Obi,08084703505,Lekki,R01,Nigeria,Wholesale,1199279,13-09-22,rukayat.obi@gmail.com
+C0565,Unknown Customer,0809 1575232,Onitsha,R05,Nigeria,Retail,1708471,26-09-18,ifeanyi64@yahoo.com
+C1079,Olumide Shehu,08107033089,Bonny,R06,Nigeria,Wholesale,2028965,08-04-22,olumide.shehu@gmail.com
+C0557,Abdullahi Abubakar,08182594525,Kafanchan,R11,Nigeria,Retail,2348630,24-11-22,abdullahi.abubakar@company.ng
+C0273,Mariam Suleiman,08122474151,Kabba,R09,Nigeria,Retail,4599269,05-04-21,mariam46@yahoo.com
+C0932,Obinna Aliyu,08086049211,Kuje,R08,Nigeria,Wholesale,1281397,18-05-22,obinna.aliyu@gmail.com
+C0491,Tochukwu Gwarzo,08097419205,Enugu,R04,Nigeria,Wholesale,2438562,28-05-21,tochukwu.gwarzo@gmail.com
+C0771,Nnamdi Osei,08057882822,Kuje,R08,Nigeria,Retail,4830227,11-07-20,n.osei@outlook.com
+C0079,Ramat Funtua,0810 6990690,Agbor,R07,Nigeria,Retail,2185760,19-08-20,ramat.funtua@company.ng
+C0720,Damilola Anyanwu,08183685421,Apapa,R01,Nigeria,Retail,1893934,01-08-22,damilola.anyanwu@gmail.com
+C0829,Horizon Dikko Trading Co.,08091110713,Surulere,R01,Nigeria,Corporate,3802036,24-04-19,h.dikko@outlook.com
+C0996,Olumide Suleiman,08186624584,Bichi,R10,Nigeria,Retail,2217961,20-11-21,olumide.suleiman@company.ng
+C0743,Apex Dikko Enterprises,0809 6381199,Dukku,R13,Nigeria,Corporate,1615797,12-12-20,oluwaseun.dikko@gmail.com
+C1057,Emeka Adeyemi,0801 5056892,Kaltungo,R13,Nigeria,SME,628618,14-11-19,emeka.adeyemi@company.ng
+C0086,Apex Suleiman Ltd,08179973958,Nnewi,R05,Nigeria,Corporate,2316148,13-11-18,somtochukwu20@yahoo.com
+C0902,Yetunde Bello,08173370640,Gombe,R13,Nigeria,Retail,592772,18-09-18,yetunde.bello@company.ng
+C0706,Premier Nzeka Resources Ltd,08029364683,Gombe,R13,Nigeria,Corporate,2577097,19-07-20,rukayat6@yahoo.com
+C0164,Unity Suleiman Ltd,08124962093,Kafanchan,R11,Nigeria,Corporate,3785532,11-08-20,b.suleiman@outlook.com
+C0610,Uchenna Ezeani,08189286099,Gombe,R13,Nigeria,SME,1342666,29-12-20,uchenna78@yahoo.com
+C0824,Greenfield Anyanwu & Sons,0816 9787642,Wudil,R10,Nigeria,Corporate,4100649,04-01-18,s.anyanwu@outlook.com
+C0175,Ramat Ibrahim,08122848143,Ogbomoso,R03,Nigeria,Retail,4371969,17-06-21,ramat.ibrahim@gmail.com
+C0815,Sochima Agbo,0811 9863685,Eleme,R06,Nigeria,Retail,1992667,19-10-21,sochima91@yahoo.com
+C0796,Modupe Nwachukwu,Unknown,Ogbomoso,R03,Nigeria,Retail,4745105,12-05-19,m.nwachukwu@outlook.com
+C0963,Rukayat Aliyu,08075930423,Abuja,R08,Nigeria,Retail,2096227,07-04-19,rukayat54@yahoo.com
+C1190,Ezinne Mbah,0816 1193414,Enugu,R04,Nigeria,Retail,4723117,28-03-22,ezinne.mbah@gmail.com
+C1053,Ejike Danladi,08025323509,Apapa,R01,Nigeria,SME,3490641,21-10-22,ejike.danladi@company.ng
+C0305,Oluwaseun Abubakar,0815 3804903,Ijebu-Ode,R02,Nigeria,Retail,1137760,23-08-19,oluwaseun54@yahoo.com
+C0290,Chidi Ringim,08103684806,Okene,R09,Nigeria,Wholesale,2594046,25-07-20,chidi.ringim@company.ng
+C1120,Yewande Suleiman,08086247802,Rano,R10,Nigeria,Retail,4667563,19-02-19,Invalid Email
+C0206,Onyeka Aliyu,08116429694,Lekki,R01,Nigeria,Wholesale,242261,08-10-21,onyeka.aliyu@company.ng
+C0202,Apex Shehu Group,08144930666,Kabba,R09,Nigeria,Corporate,1227068,11-08-18,adewale.shehu@company.ng
+C0645,Rukayat Kankara,08151172728,Ekwulobia,R05,Nigeria,Wholesale,56018,27-06-19,rukayat64@yahoo.com
+C0154,Blessing Tukur,0807 4339242,Nsukka,R04,Nigeria,SME,3008033,30-06-21,blessing.tukur@gmail.com
+C0883,Funmilayo Ihejirika,0812 5832136,Ekwulobia,R05,Nigeria,Wholesale,770287,08-04-23,funmilayo69@yahoo.com
+C0033,Premier Yusuf Ltd,0802 8186579,Ibadan,R03,Nigeria,Corporate,3165817,10-09-18,c.yusuf@outlook.com
+C0028,Ekene Dikko,08137130119,Lugbe,R08,Nigeria,Wholesale,3179693,07-06-19,ekene.dikko@company.ng
+C0169,Sochima Nwankwo,08116948340,Ekwulobia,R05,Nigeria,Retail,4099689,27-03-23,sochima.nwankwo@company.ng
+C1095,Niger Okoro Group,08125901152,Abuja,R08,Nigeria,Corporate,2927061,13-05-23,ezinne60@yahoo.com
+C0969,Ebuka Tukur,08081576933,Ijebu-Ode,R02,Nigeria,Retail,4732382,27-01-23,e.tukur@outlook.com
+C0036,Ramatu Nzeka,0809 9860584,Osogbo,R03,Nigeria,SME,623317,28-03-23,ramatu.nzeka@gmail.com
+C0418,Onyeka Ibrahim,0814 1093890,Kabba,R09,Nigeria,Wholesale,1529812,04-01-21,onyeka.ibrahim@company.ng
+C0415,Lagos Bello Ltd,0807 7151024,Kabba,R09,Nigeria,Corporate,694001,28-08-20,folake.bello@company.ng
+C0355,Ramatu Babangida,08144515100,Lokoja,R09,Nigeria,Wholesale,1598126,24-03-22,ramatu.babangida@gmail.com
+C0783,Fatima Umar,08023135206,Agbor,R07,Nigeria,SME,2298688,02-12-22,f.umar@outlook.com
+C1021,Amina Tukur,08039761342,Lekki,R01,Nigeria,Retail,1525080,01-07-21,a.tukur@outlook.com
+C0324,Funmilayo Ibrahim,08163354663,Warri,R07,Nigeria,SME,3462611,05-12-19,funmilayo.ibrahim@company.ng
+C0864,Bilkisu Suleiman,08107564760,Onitsha,R05,Nigeria,Retail,3679621,29-05-18,bilkisu.suleiman@gmail.com
+C0229,Ramatu Nzeka,08134110793,Ijebu-Ode,R02,Nigeria,Wholesale,992937,23-08-20,r.nzeka@outlook.com
+C1178,Zainab Nzeka,0802 6748950,Kaltungo,R13,Nigeria,Retail,3590716,11-04-20,z.nzeka@outlook.com
+C0207,Techbase Eze Global Ventures,08017686072,Nsukka,R04,Nigeria,Corporate,1371295,05-07-19,amina.eze@company.ng
+C0226,Damilola Okafor,08191625723,Ibadan,R03,Nigeria,Retail,1610501,28-05-21,damilola.okafor@company.ng
+C0223,Unknown Customer,0807 4546203,Nsukka,R04,Nigeria,Wholesale,290801,02-08-22,mariam.dikko@gmail.com
+C0927,Ebuka Gwarzo,0813 9314145,Nnewi,R05,Nigeria,Retail,2654767,18-05-18,ebuka.gwarzo@company.ng
+C0564,Premier Obi & Sons,08085457614,Rano,R10,Nigeria,Corporate,2932149,08-04-19,nkechi.obi@company.ng
+C0844,Chioma Eze,08147203591,Asaba,R07,Nigeria,Retail,3070698,06-10-21,c.eze@outlook.com
+C0724,Greenfield Nwankwo Trading Co.,08099906351,Maiduguri,R12,Nigeria,Corporate,2110575,08-12-20,oluwaseun24@yahoo.com
+C1014,Pronigeria Adeyemi Ltd,0802 2032481,Okene,R09,Nigeria,Corporate,1154676,02-02-23,yewande.adeyemi@gmail.com
+C0428,Damilola Kankara,08081203259,Eleme,R06,Nigeria,Wholesale,2667318,24-08-22,d.kankara@outlook.com
+C0947,Khadijah Obiora,08052972819,Ijebu-Ode,R02,Nigeria,Retail,3098717,26-08-20,khadijah30@yahoo.com
+C0132,Lagos Obiechina Trading Co.,08025730151,Gombe,R13,Nigeria,Corporate,1970956,17-01-20,nkechi.obiechina@company.ng
+C1008,Lawal Anyanwu,08182381970,Lokoja,R09,Nigeria,Retail,649530,24-03-21,lawal.anyanwu@gmail.com
+C1103,Kenechukwu Onyekachi,08123641997,Lekki,R01,Nigeria,Retail,3595354,03-09-20,kenechukwu36@yahoo.com
+C0657,Zainab Onuoha,0816 8739689,Ekwulobia,R05,Nigeria,Retail,1091632,31-05-20,zainab.onuoha@company.ng
+C0282,Folake Garba,0807 2275689,Osogbo,R03,Nigeria,Retail,2139380,22-06-22,folake.garba@company.ng
+C0146,Gbemisola Osei,0818 8298884,Awka,R05,Nigeria,SME,970057,07-08-21,gbemisola.osei@company.ng
+C0750,Taiwo Nwachukwu,08176475583,Kuje,R08,Nigeria,Retail,538626,25-08-20,t.nwachukwu@outlook.com
+C0322,Abuja Ihejirika Resources Ltd,08066338743,Abeokuta,R02,Nigeria,Corporate,3549797,29-04-23,m.ihejirika@outlook.com
+C0718,Chidi Obiora,0808 2708787,Awka,R05,Nigeria,Retail,3263911,07-09-18,c.obiora@outlook.com
+C0580,Chioma Suleiman,08103064514,Kabba,R09,Nigeria,Wholesale,1508978,22-03-21,chioma30@yahoo.com
+C0296,Yetunde Okafor,08087994927,Kano,R10,Nigeria,SME,4524217,29-04-22,yetunde.okafor@company.ng
+C0143,Tochukwu Chukwu,08089426383,Osogbo,R03,Nigeria,Retail,122523,05-09-21,tochukwu11@yahoo.com
+C0141,Kano Shehu Enterprises,0801 3003238,Oyo,R03,Nigeria,Corporate,3738414,27-04-18,halima.shehu@company.ng
+C1192,Ifeanyi Ringim,08025131569,Zaria,R11,Nigeria,Retail,2308370,05-06-21,ifeanyi.ringim@company.ng
+C0356,Babatunde Umar,08196481733,Gwagwalada,R08,Nigeria,Retail,693000,21-04-23,babatunde.umar@gmail.com
+C1092,Apex Abubakar Enterprises,0811 1848768,Ibadan,R03,Nigeria,Corporate,3664977,24-07-19,amina.abubakar@company.ng
+C0803,Agrofirst Ezeani Group,08134064160,Sagamu,R02,Nigeria,Corporate,1873280,29-07-22,funmilayo.ezeani@company.ng
+C0567,Chinedu Lawal,0803 5292708,Port Harcourt,R06,Nigeria,Retail,3551054,11-11-21,chinedu33@yahoo.com
+C0707,Rukayat Obi,0811 9035855,Port Harcourt,R06,Nigeria,Wholesale,334697,02-09-18,rukayat.obi@gmail.com
+C1042,Rukayat Ringim,0806 5259337,Kuje,R08,Nigeria,Retail,2141031,03-05-22,r.ringim@outlook.com
+C0342,Amarachi Osei,08131345682,Kabba,R09,Nigeria,Retail,3667273,18-05-22,amarachi1@yahoo.com
+C0293,Funmilayo Abubakar,0816 9042859,Okene,R09,Nigeria,Wholesale,2828608,15-11-20,funmilayo40@yahoo.com
+C0372,Gateway Makarfi Global Ventures,0816 3259997,Apapa,R01,Nigeria,Corporate,2706678,01-02-20,chinonso41@yahoo.com
+C0354,Sunrise Obiora Resources Ltd,08086814987,Kaduna,R11,Nigeria,Corporate,3375156,23-11-22,a.obiora@outlook.com
+C0390,Pronigeria Osei Nigeria Ltd,0806 4601466,Abeokuta,R02,Nigeria,Corporate,3358111,09-09-20,somtochukwu.osei@company.ng
+C0195,Unity Yusuf Trading Co.,0805 6432434,Obio-Akpor,R06,Nigeria,Corporate,1259082,15-07-18,ezinne5@yahoo.com
+C0184,Apex Hassan Resources Ltd,08096358214,Obio-Akpor,R06,Nigeria,Corporate,3104324,10-09-18,hauwa.hassan@company.ng
+C0679,Onyeka Nwankwo,08114071775,Maiduguri,R12,Nigeria,Retail,3023866,21-09-20,o.nwankwo@outlook.com
+C1027,Olamide Ezeani,08029619519,Eleme,R06,Nigeria,Wholesale,3258058,13-03-18,o.ezeani@outlook.com
+C0961,Pronigeria Anyanwu Integrated Services,08107083982,Maiduguri,R12,Nigeria,Corporate,4425814,03-04-20,c.anyanwu@outlook.com
+C0058,Adewale Agbo,08056631115,Awka,R05,Nigeria,SME,3269688,23-12-20,adewale52@yahoo.com
+C0806,Rukayat Anyanwu,0811 8035811,Obio-Akpor,R06,Nigeria,Wholesale,3442594,04-11-23,rukayat.anyanwu@company.ng
+C1017,Ezinne Nwosu,08128536081,Gwagwalada,R08,Nigeria,Wholesale,1355017,08-04-22,ezinne.nwosu@company.ng
+C0220,Bilkisu Ihejirika,08094119358,Lokoja,R09,Nigeria,Retail,3865972,12-11-22,bilkisu41@yahoo.com
+C1125,Titilayo Ringim,08148319912,Biu,R12,Nigeria,SME,4980640,02-06-21,t.ringim@outlook.com
+C0208,Abuja Okeke Ltd,0808 6457115,Ogbomoso,R03,Nigeria,Corporate,4285384,17-05-18,olamide.okeke@company.ng
+C0506,Nkechi Dikko,08166166511,Biu,R12,Nigeria,Retail,4518028,08-04-23,nkechi.dikko@gmail.com
+C0393,Onyeka Agbo,08079330153,Kaduna,R11,Nigeria,Retail,3821901,23-09-22,onyeka.agbo@gmail.com
+C0391,Horizon Kwankwaso Ltd,0815 7957997,Kaltungo,R13,Nigeria,Corporate,4654173,24-09-21,g.kwankwaso@outlook.com
+C0064,Ebuka Obiechina,08197319299,Oji River,R04,Nigeria,Unknown Segment,1345822,03-01-23,ebuka.obiechina@gmail.com
+C0276,Ezinne Abdullahi,08033022688,Sapele,R07,Nigeria,Wholesale,1803349,20-06-19,e.abdullahi@outlook.com
+C0179,Horizon Hassan Group,08093771990,Ogbomoso,R03,Nigeria,Corporate,951988,02-07-22,gbemisola.hassan@company.ng
+C0205,Gateway Shehu & Sons,08191399959,Ibadan,R03,Nigeria,Corporate,3106100,23-09-21,zainab78@yahoo.com
+C1081,Kenechukwu Abdullahi,Unknown,Asaba,R07,Nigeria,SME,3794714,02-12-21,kenechukwu.abdullahi@gmail.com
+C0402,Safiya Waziri,0818 1445258,Kabba,R09,Nigeria,Retail,4923090,28-03-20,safiya.waziri@gmail.com
+C0899,Olumide Shehu,08163445384,Agbor,R07,Nigeria,Retail,4257880,16-05-19,o.shehu@outlook.com
+C0441,Yetunde Abubakar,08104044455,Bichi,R10,Nigeria,SME,981906,09-11-21,Invalid Email
+C0246,Uchenna Gwarzo,08025961883,Bonny,R06,Nigeria,Retail,2832944,29-03-22,uchenna.gwarzo@gmail.com
+C0867,Gateway Anyanwu Global Ventures,08124870058,Gombe,R13,Nigeria,Corporate,4426193,25-01-20,tochukwu.anyanwu@company.ng
+C0512,Halima Shehu,08084174106,Kaltungo,R13,Nigeria,Retail,1532289,17-09-21,halima.shehu@gmail.com
+C0676,Nkechi Obi,08028770130,Ekwulobia,R05,Nigeria,Unknown Segment,609494,20-08-20,nkechi.obi@company.ng
+C0987,Chioma Obiora,Unknown,Gwoza,R12,Nigeria,Retail,4263686,06-02-18,chioma86@yahoo.com
+C0438,Bilkisu Umar,08086075825,Wudil,R10,Nigeria,Retail,4538458,03-05-22,b.umar@outlook.com
+C0992,Eko Ihejirika Ltd,0806 4933848,Rano,R10,Nigeria,Corporate,4056813,09-08-21,amarachi46@yahoo.com
+C0419,Lawal Nwankwo,08085584093,Maiduguri,R12,Nigeria,Retail,4614438,07-05-18,lawal.nwankwo@company.ng
+C1066,Khadijah Agbo,08185564304,Kaltungo,R13,Nigeria,Retail,3999877,10-05-20,k.agbo@outlook.com
+C0217,Olumide Yusuf,08096369519,Lugbe,R08,Nigeria,Retail,889008,11-08-20,olumide.yusuf@gmail.com
+C1088,Kano Ringim Global Ventures,0805 3705436,Kuje,R08,Nigeria,Corporate,2469950,09-12-21,u.ringim@outlook.com
+C0412,Ebuka Okonkwo,08074780583,Lugbe,R08,Nigeria,Wholesale,4273387,17-03-21,ebuka70@yahoo.com
+C0591,Yahaya Okonkwu,0818 7595834,Biu,R12,Nigeria,SME,1357842,31-05-22,yahaya.okonkwu@company.ng
+C0508,Horizon Mbah Nigeria Ltd,0819 6607038,Port Harcourt,R06,Nigeria,Corporate,3918858,24-06-21,a.mbah@outlook.com
+C0944,Ramat Onyekachi,0801 7320281,Oji River,R04,Nigeria,Wholesale,4460228,13-08-18,ramat67@yahoo.com
+C0903,Pronigeria Okoro Nigeria Ltd,08012965851,Lokoja,R09,Nigeria,Corporate,1591429,19-01-23,modupe.okoro@company.ng
+C0405,Peak Bello Group,08023056542,Oyo,R03,Nigeria,Corporate,1420727,05-10-20,halima88@yahoo.com
+C0062,Unknown Customer,08038711695,Kaduna,R11,Nigeria,Retail,986962,24-05-21,amina76@yahoo.com
+C0644,Olamide Ringim,08056614886,Awka,R05,Nigeria,Retail,883946,05-01-21,olamide.ringim@company.ng
+C0795,Halima Abdullahi,08075746998,Rano,R10,Nigeria,Wholesale,3006865,08-06-23,halima.abdullahi@gmail.com
+C0250,Nkechi Ihejirika,08057350960,Lugbe,R08,Nigeria,Wholesale,4605324,11-08-19,nkechi.ihejirika@company.ng
+C0166,Olamide Okoro,08109891303,Gwoza,R12,Nigeria,Retail,4827221,07-10-20,olamide48@yahoo.com
+C1070,Fatima Babangida,0813 1669252,Kaltungo,R13,Nigeria,SME,2890316,22-01-21,fatima.babangida@company.ng
+C0788,Yewande Makarfi,08033756750,Maiduguri,R12,Nigeria,Retail,1296325,12-06-21,yewande.makarfi@gmail.com
+C0881,Abdullahi Lawal,08075322689,Lokoja,R09,Nigeria,Wholesale,4510876,02-11-22,abdullahi79@yahoo.com
+C0018,Oluwaseun Ihejirika,0808 1749398,Zaria,R11,Nigeria,Wholesale,4451171,01-01-21,oluwaseun.ihejirika@gmail.com
+C0631,Yahaya Okoro,08196833339,Kuje,R08,Nigeria,Retail,540320,16-08-21,yahaya62@yahoo.com
+C0247,Gateway Agbo Trading Co.,08037527798,Wudil,R10,Nigeria,Corporate,4109348,17-12-21,emeka.agbo@gmail.com
+C0040,Eko Umar Integrated Services,08099004401,Bichi,R10,Nigeria,Corporate,2097070,26-10-19,amarachi.umar@gmail.com
+C0637,Obinna Eze,08166972085,Ekwulobia,R05,Nigeria,Wholesale,740842,07-09-18,o.eze@outlook.com
+C0130,Mariam Osei,08103843083,Dukku,R13,Nigeria,Retail,1695689,24-01-21,mariam.osei@gmail.com
+C0083,Yetunde Abdullahi,08158295800,Abeokuta,R02,Nigeria,Retail,2421202,29-06-18,y.abdullahi@outlook.com
+C0973,Olamide Chibueze,08012670987,Apapa,R01,Nigeria,SME,3441755,22-02-22,olamide.chibueze@gmail.com
+C0522,Chibuzor Abdullahi,08197311359,Lokoja,R09,Nigeria,Wholesale,2443732,23-04-22,chibuzor88@yahoo.com
+C0157,Blessing Osei,08198256569,Biu,R12,Nigeria,Wholesale,2060696,20-09-18,blessing1@yahoo.com
+C1194,Obinna Ezeani,08143292299,Kabba,R09,Nigeria,Retail,1687878,14-03-20,o.ezeani@outlook.com
+C0384,Peak Ugwu & Sons,0818 4255601,Lagos,R01,Nigeria,Corporate,476537,20-01-18,Invalid Email
+C0309,Yetunde Osei,08088102055,Dukku,R13,Nigeria,Retail,1400623,07-12-21,y.osei@outlook.com
+C1025,Fatima Babangida,08017510107,Ijebu-Ode,R02,Nigeria,Retail,3602440,20-01-21,Invalid Email
+C0174,Sunrise Chukwu Trading Co.,0814 1384822,Kafanchan,R11,Nigeria,Corporate,3937760,03-12-20,j.chukwu@outlook.com
+C0747,Zainab Onuoha,0816 3579690,Enugu,R04,Nigeria,Retail,4967210,27-05-20,zainab.onuoha@gmail.com
+C0513,Safiya Suleiman,08026881586,Lokoja,R09,Nigeria,Retail,2735769,10-11-20,safiya.suleiman@gmail.com
+C1123,Olumide Ugwu,0802 1733943,Bonny,R06,Nigeria,Retail,4778881,05-11-20,olumide.ugwu@gmail.com
+C0515,Halima Babangida,0816 3520161,Kabba,R09,Nigeria,Retail,3816817,14-08-20,halima8@yahoo.com
+C0809,Chinonso Nwankwo,08038828005,Biu,R12,Nigeria,Retail,3757084,08-12-19,chinonso40@yahoo.com
+C1067,Jumoke Okonkwu,08177421973,Lugbe,R08,Nigeria,Retail,4544238,22-11-22,j.okonkwu@outlook.com
+C0622,Unity Hassan Trading Co.,0801 3984807,Ijebu-Ode,R02,Nigeria,Corporate,4367895,24-08-22,m.hassan@outlook.com
+C0368,Jumoke Chibueze,08169885449,Gwagwalada,R08,Nigeria,Wholesale,80550,18-09-21,jumoke11@yahoo.com
+C0375,Abdullahi Okonkwo,08183929066,Agbor,R07,Nigeria,SME,1712352,30-12-22,abdullahi.okonkwo@gmail.com
+C0757,Abdullahi Agbo,08083514240,Ikeja,R01,Nigeria,Retail,1597079,24-04-22,a.agbo@outlook.com
+C0789,Chinonso Okafor,08078463268,Kafanchan,R11,Nigeria,Retail,1257458,31-08-20,chinonso.okafor@company.ng
+C0339,Ebuka Dikko,08088931492,Ijebu-Ode,R02,Nigeria,Retail,3806004,11-06-21,ebuka.dikko@gmail.com
+C0812,Yahaya Nwankwo,08188133638,Surulere,R01,Nigeria,Retail,4390211,14-08-22,yahaya.nwankwo@company.ng
+C0194,Nkechi Okonkwu,0815 7448358,Gombe,R13,Nigeria,SME,3112085,15-12-21,nkechi.okonkwu@gmail.com
+C0240,Kano Suleiman & Sons,08181314238,Kaduna,R11,Nigeria,Corporate,3426177,29-11-19,babatunde.suleiman@gmail.com
+C1122,Gbemisola Chukwu,08142129723,Rano,R10,Nigeria,Retail,1051064,10-01-18,g.chukwu@outlook.com
+C1093,Safiya Ibrahim,0816 4670626,Abeokuta,R02,Nigeria,Retail,812082,24-07-19,safiya98@yahoo.com
+C0563,Babatunde Mbah,08093049095,Gombe,R13,Nigeria,SME,2365359,30-03-19,babatunde.mbah@company.ng
+C1106,Yewande Musa,08198605823,Lokoja,R09,Nigeria,Retail,2038825,11-01-18,yewande.musa@gmail.com
+C0072,Chidi Anozie,08056238032,Agbor,R07,Nigeria,Wholesale,4806790,01-07-21,chidi.anozie@gmail.com
+C0779,Maryam Okeke,0809 4574945,Sagamu,R02,Nigeria,Retail,3818757,03-03-19,maryam36@yahoo.com
+C0346,Amarachi Babangida,08079033322,Kafanchan,R11,Nigeria,SME,4190645,31-05-18,a.babangida@outlook.com
+C0291,Damilola Abdullahi,08196816255,Agbor,R07,Nigeria,Unknown Segment,3717256,05-12-23,damilola58@yahoo.com
+C0006,Hauwa Eze,08024686057,Obio-Akpor,R06,Nigeria,Wholesale,2942998,30-11-22,h.eze@outlook.com
+C0462,Gateway Anozie Enterprises,08158580365,Obio-Akpor,R06,Nigeria,Corporate,2374397,01-11-21,lawal.anozie@company.ng
+C0119,Rukayat Hassan,08159578179,Onitsha,R05,Nigeria,Retail,2185314,25-02-22,rukayat15@yahoo.com
+C0876,Ejike Obiechina,Unknown,Asaba,R07,Nigeria,Retail,2548668,02-02-19,e.obiechina@outlook.com
+C1090,Emeka Ezeani,08154590542,Eleme,R06,Nigeria,Retail,4467299,09-07-21,emeka.ezeani@gmail.com
+C0228,Titilayo Onuoha,08031017513,Agbor,R07,Nigeria,Retail,3323479,29-03-20,t.onuoha@outlook.com
+C0675,Mariam Ihejirika,08165167741,Lugbe,R08,Nigeria,SME,3661157,03-03-23,m.ihejirika@outlook.com
+C0820,Ramatu Hassan,08172966104,Kaduna,R11,Nigeria,Wholesale,4553864,08-06-19,ramatu.hassan@gmail.com
+C0846,Chibuzor Lawal,08184991703,Asaba,R07,Nigeria,SME,2322719,17-06-21,chibuzor.lawal@gmail.com
+C1148,Obinna Ringim,08016198297,Kafanchan,R11,Nigeria,SME,1597644,26-06-20,obinna27@yahoo.com
+C0235,Zainab Ezeani,08118609223,Okene,R09,Nigeria,Retail,1412586,25-06-23,zainab.ezeani@gmail.com
+C0180,Olamide Nzeka,08128212365,Eleme,R06,Nigeria,Retail,3988591,01-10-19,olamide23@yahoo.com
+C1127,Chinonso Nwankwo,08019551181,Kano,R10,Nigeria,SME,1756049,15-07-20,chinonso.nwankwo@company.ng
+C0660,Yewande Anozie,08076885397,Obio-Akpor,R06,Nigeria,Wholesale,3330344,22-03-18,Invalid Email
+C0640,Chidi Bello,08015278767,Zaria,R11,Nigeria,Retail,2469863,25-01-21,chidi95@yahoo.com
+C1182,Uchenna Ugwu,08036769149,Ijebu-Ode,R02,Nigeria,Wholesale,2680784,10-06-19,uchenna.ugwu@gmail.com
+C1077,Chibuzor Ibrahim,08065273341,Awka,R05,Nigeria,Retail,4716253,07-05-20,chibuzor.ibrahim@gmail.com
+C0100,Olamide Eze,08067273299,Kabba,R09,Nigeria,Unknown Segment,2519420,17-02-18,olamide.eze@company.ng
+C1019,Maryam Tukur,08033755509,Agbor,R07,Nigeria,Retail,2905898,26-04-20,Invalid Email
+C0861,Adeola Nwachukwu,08131976099,Ogbomoso,R03,Nigeria,Retail,4358100,07-02-19,adeola85@yahoo.com
+C1040,Gbemisola Onyekachi,08026614851,Biu,R12,Nigeria,Retail,3635882,30-10-18,gbemisola.onyekachi@gmail.com
+C0681,Ezinne Musa,08126282996,Sagamu,R02,Nigeria,Unknown Segment,288164,27-06-19,e.musa@outlook.com
+C0010,Safiya Suleiman,08118514125,Oyo,R03,Nigeria,Retail,4113008,13-03-18,safiya51@yahoo.com
+C0840,Ezinne Ugwu,08082412339,Okene,R09,Nigeria,Retail,1501972,12-07-18,ezinne91@yahoo.com
+C0476,Chidi Makarfi,08107597517,Sapele,R07,Nigeria,Retail,1365383,13-07-22,c.makarfi@outlook.com
+C1107,Chinedu Okonkwu,08075464220,Dukku,R13,Nigeria,Retail,96441,05-07-23,chinedu.okonkwu@company.ng
+C0234,Apex Okeke Global Ventures,0813 1245559,Asaba,R07,Nigeria,Corporate,3917855,11-10-22,funmilayo.okeke@company.ng
+C0437,Chioma Eze,08164346901,Asaba,R07,Nigeria,Retail,2095546,20-05-19,chioma.eze@company.ng
+C0321,Lawal Okafor,08066631122,Biu,R12,Nigeria,Wholesale,3572866,22-10-19,lawal.okafor@company.ng
+C0317,Zainab Bello,08115465217,Lugbe,R08,Nigeria,Retail,1870695,20-06-21,zainab.bello@gmail.com
+C0361,Uchenna Danladi,0809 9356880,Lugbe,R08,Nigeria,Wholesale,561295,24-06-22,uchenna39@yahoo.com
+C1011,Maryam Osei,08138552366,Ibadan,R03,Nigeria,Wholesale,3616097,09-03-21,maryam93@yahoo.com
+C0049,Lawal Kwankwaso,0811 5322596,Bonny,R06,Nigeria,Retail,372285,18-05-18,lawal22@yahoo.com
+C0619,Unknown Customer,08161783814,Eleme,R06,Nigeria,Retail,1971707,24-02-18,somtochukwu98@yahoo.com
+C0856,Obinna Nwankwo,08135887226,Apapa,R01,Nigeria,Retail,1665189,16-07-19,o.nwankwo@outlook.com
+C0362,Yahaya Waziri,08175719718,Wudil,R10,Nigeria,Wholesale,4514684,29-10-18,yahaya72@yahoo.com
+C1155,Olamide Okonkwo,08186061963,Wudil,R10,Nigeria,Retail,4739458,01-06-23,Invalid Email
+C0793,Oluwaseun Dikko,08021384750,Lekki,R01,Nigeria,Wholesale,4024703,15-06-18,oluwaseun53@yahoo.com
+C0889,Chibuzor Agbo,08033521389,Port Harcourt,R06,Nigeria,Wholesale,4736409,09-03-20,c.agbo@outlook.com
+C0494,Delta Umar Resources Ltd,08063264991,Nsukka,R04,Nigeria,Corporate,3152985,30-04-19,ngozi.umar@gmail.com
+C1176,Rukayat Obi,08064850365,Kaduna,R11,Nigeria,Retail,3239934,18-11-18,rukayat34@yahoo.com
+C0381,Ngozi Nwankwo,08102916840,Kano,R10,Nigeria,SME,4911823,24-04-21,n.nwankwo@outlook.com
+C1133,Ezinne Funtua,0811 6569193,Kabba,R09,Nigeria,SME,3666891,04-12-18,ezinne.funtua@gmail.com
+C0284,Premier Nwosu Enterprises,08163226397,Maiduguri,R12,Nigeria,Corporate,2824371,19-08-20,c.nwosu@outlook.com
+C1130,Nnamdi Okonkwu,0802 8832509,Gwoza,R12,Nigeria,Retail,2475972,01-03-20,nnamdi.okonkwu@company.ng
+C0537,Greenfield Ringim Integrated Services,08031551670,Asaba,R07,Nigeria,Corporate,1354445,13-09-20,obinna.ringim@company.ng
+C1024,Ikechukwu Nwachukwu,0803 3830158,Apapa,R01,Nigeria,Retail,2640082,22-05-22,ikechukwu.nwachukwu@company.ng
+C0224,Chibuzor Osei,0801 4554966,Gwagwalada,R08,Nigeria,SME,755796,14-06-21,chibuzor.osei@company.ng
+C0046,Nnamdi Waziri,0814 1568871,Surulere,R01,Nigeria,Retail,2308554,30-10-22,n.waziri@outlook.com
+C0659,Ramatu Nzeka,0817 3789613,Okene,R09,Nigeria,Wholesale,143365,08-10-19,ramatu.nzeka@company.ng
+C0160,Somtochukwu Ringim,08109303304,Eleme,R06,Nigeria,Retail,3440877,01-09-20,somtochukwu25@yahoo.com
+C0703,Somtochukwu Tukur,08151504620,Gwoza,R12,Nigeria,Retail,3490146,22-10-18,somtochukwu.tukur@company.ng
+C0893,Ezinne Eze,08111843894,Sapele,R07,Nigeria,Retail,129321,23-05-22,ezinne48@yahoo.com
+C0110,Babatunde Obi,0812 7584389,Kaduna,R11,Nigeria,Wholesale,1051200,16-05-22,b.obi@outlook.com
+C0777,Sochima Ezeani,08079725622,Onitsha,R05,Nigeria,Retail,1394274,25-04-20,sochima.ezeani@company.ng
+C1175,Kenechukwu Tukur,08145639777,Biu,R12,Nigeria,Wholesale,4276934,07-01-20,kenechukwu.tukur@gmail.com
+C0605,Olamide Okafor,08119071075,Wudil,R10,Nigeria,Retail,1834076,11-10-21,olamide34@yahoo.com
+C0874,Ifeanyi Ibrahim,08068754623,Onitsha,R05,Nigeria,Wholesale,910394,15-05-20,i.ibrahim@outlook.com
+C0404,Hauwa Ringim,0819 8689846,Ikeja,R01,Nigeria,Wholesale,2238858,22-02-22,hauwa25@yahoo.com
+C0068,Sunrise Ringim Nigeria Ltd,08162881590,Sagamu,R02,Nigeria,Corporate,639724,23-12-20,modupe.ringim@company.ng
+C0449,Ekene Okoro,0814 8640767,Ekwulobia,R05,Nigeria,Wholesale,3396767,25-03-21,ekene.okoro@company.ng
+C0632,Nnamdi Ibrahim,08058629395,Gwagwalada,R08,Nigeria,Wholesale,282181,02-03-18,nnamdi.ibrahim@gmail.com
+C0699,Blessing Ugwu,08154312392,Kabba,R09,Nigeria,SME,3559714,06-02-18,blessing.ugwu@company.ng
+C1029,Niger Osei Trading Co.,08022759468,Dukku,R13,Nigeria,Corporate,880290,30-08-18,Invalid Email
+C0200,Ramatu Okonkwu,08036674737,Port Harcourt,R06,Nigeria,Retail,1639871,19-06-21,ramatu.okonkwu@company.ng
+C0590,Fatima Adeyemi,08141487899,Awka,R05,Nigeria,Retail,4887997,28-07-19,fatima89@yahoo.com
+C0510,Adewale Obiechina,08089856052,Gwoza,R12,Nigeria,Wholesale,541456,19-02-21,adewale.obiechina@gmail.com
+C0978,Titilayo Mbah,0815 3344693,Dukku,R13,Nigeria,Wholesale,4836365,16-05-22,t.mbah@outlook.com
+C0738,Ezinne Ihejirika,08061204472,Kaltungo,R13,Nigeria,Retail,2181188,23-06-20,e.ihejirika@outlook.com
+C0334,Ifeanyi Osei,08093561453,Kabba,R09,Nigeria,SME,660977,15-10-22,i.osei@outlook.com
+C0085,Ezinne Chibueze,0807 2951209,Gombe,R13,Nigeria,Wholesale,349574,29-07-20,e.chibueze@outlook.com
+C0210,Chinonso Obiechina,08065786230,Enugu,R04,Nigeria,Retail,3167095,11-03-23,chinonso.obiechina@gmail.com
+C0274,Chidi Nwosu,08061691732,Biu,R12,Nigeria,Retail,1271444,25-08-18,chidi.nwosu@company.ng
+C0469,Titilayo Chukwu,08182015689,Kaltungo,R13,Nigeria,Wholesale,146029,23-02-19,titilayo37@yahoo.com
+C0956,Sunrise Eze & Associates,08156260954,Warri,R07,Nigeria,Corporate,882913,04-06-22,f.eze@outlook.com
+C1016,Kenechukwu Danladi,08192865298,Kaltungo,R13,Nigeria,SME,3967825,22-09-18,kenechukwu.danladi@company.ng
+C0860,Niger Ugwu Enterprises,08082636323,Kano,R10,Nigeria,Corporate,3291569,22-05-20,ejike.ugwu@gmail.com
+C1147,Horizon Nwankwo Resources Ltd,08089072206,Obio-Akpor,R06,Nigeria,Corporate,3069461,21-09-18,hauwa.nwankwo@gmail.com
+C1165,Techbase Ibrahim Enterprises,08033456435,Kaltungo,R13,Nigeria,Corporate,3545239,23-12-22,jumoke.ibrahim@gmail.com
+C0791,Peak Ibrahim Global Ventures,08132390231,Wudil,R10,Nigeria,Corporate,4594972,08-10-22,uche.ibrahim@gmail.com
+C0584,Lagos Ezeani Ltd,0817 2150326,Kafanchan,R11,Nigeria,Corporate,4478838,27-06-22,b.ezeani@outlook.com
+C0717,Olamide Makarfi,Unknown,Lugbe,R08,Nigeria,Retail,4619806,09-07-19,olamide85@yahoo.com
+C0030,Gateway Nwankwo Enterprises,08061552665,Lekki,R01,Nigeria,Corporate,4909007,02-12-20,damilola23@yahoo.com
+C0153,Titilayo Nwosu,0814 7572357,Gwoza,R12,Nigeria,Wholesale,2590116,28-05-23,t.nwosu@outlook.com
+C0009,Halima Hassan,08142615442,Surulere,R01,Nigeria,Wholesale,3534387,12-05-22,h.hassan@outlook.com
+C0148,Jumoke Waziri,0813 1347150,Ikeja,R01,Nigeria,SME,1363490,07-02-19,j.waziri@outlook.com
+C0552,Ebuka Osei,Unknown,Kuje,R08,Nigeria,SME,2868874,29-10-19,ebuka52@yahoo.com
+C1195,Emeka Suleiman,08089812253,Dukku,R13,Nigeria,Retail,2415685,27-04-23,emeka.suleiman@company.ng
+C0077,Ramatu Obiora,08024264848,Port Harcourt,R06,Nigeria,Retail,4910199,11-02-22,r.obiora@outlook.com
+C0581,Nkechi Obiora,08064796388,Kaduna,R11,Nigeria,Retail,2582477,31-05-21,n.obiora@outlook.com
+C0852,Olumide Nwosu,08102412184,Surulere,R01,Nigeria,SME,1158430,23-06-18,olumide85@yahoo.com
+C0592,Rukayat Ringim,0810 5871565,Kabba,R09,Nigeria,SME,2841996,12-05-21,rukayat.ringim@gmail.com
+C0007,Sunrise Yusuf Trading Co.,08099968851,Abuja,R08,Nigeria,Corporate,3754078,21-06-19,emeka.yusuf@gmail.com
+C0403,Khadijah Mbah,08118879459,Gwoza,R12,Nigeria,SME,3140864,04-04-19,khadijah34@yahoo.com
+C0729,Olumide Abubakar,08163088417,Ijebu-Ode,R02,Nigeria,Wholesale,1808920,23-04-21,olumide13@yahoo.com
+C0593,Pronigeria Danladi Global Ventures,08076764633,Onitsha,R05,Nigeria,Corporate,2759844,31-10-20,f.danladi@outlook.com
+C0556,Adewale Osei,08198620542,Asaba,R07,Nigeria,Retail,2202574,12-01-23,a.osei@outlook.com
+C0165,Tochukwu Waziri,0807 2333960,Lokoja,R09,Nigeria,Wholesale,2470509,01-06-23,tochukwu.waziri@gmail.com
+C1161,Eko Nwankwo Ltd,0817 4729734,Dukku,R13,Nigeria,Corporate,2083972,22-11-22,yewande92@yahoo.com
+C0212,Unknown Customer,08011444615,Eleme,R06,Nigeria,SME,1642127,11-11-19,chioma.chibueze@company.ng
+C0894,Chinonso Ihejirika,0814 6153709,Dukku,R13,Nigeria,Retail,4289132,12-10-22,chinonso.ihejirika@gmail.com
+C0671,Techbase Anozie & Associates,08178256761,Lokoja,R09,Nigeria,Corporate,4349713,14-01-23,onyeka.anozie@company.ng
+C0301,Maryam Osei,08142028124,Ekwulobia,R05,Nigeria,SME,2753416,20-04-22,m.osei@outlook.com
+C0473,Ifeanyi Makarfi,08155367859,Onitsha,R05,Nigeria,Retail,4138941,31-05-18,ifeanyi34@yahoo.com
+C0901,Lagos Agbo & Associates,08175618038,Dukku,R13,Nigeria,Unknown Segment,2673886,21-02-21,chinonso87@yahoo.com
+C0905,Oluwaseun Okeke,08018397729,Okene,R09,Nigeria,Wholesale,4913756,31-05-18,o.okeke@outlook.com
+C1180,Abuja Obiora Enterprises,08031876326,Nsukka,R04,Nigeria,Corporate,4112947,03-05-20,ejike20@yahoo.com
+C0133,Chioma Okoro,0817 9065577,Lugbe,R08,Nigeria,Wholesale,4814584,11-09-22,c.okoro@outlook.com
+C0098,Pronigeria Obi Enterprises,08098324097,Enugu,R04,Nigeria,Corporate,1936423,22-06-20,lawal.obi@company.ng
+C0705,Ejike Abdullahi,0814 7770373,Gombe,R13,Nigeria,Retail,1995245,20-09-19,ejike63@yahoo.com
+C0549,Nnamdi Obiora,08116134374,Port Harcourt,R06,Nigeria,Retail,3929265,17-12-18,nnamdi.obiora@gmail.com
+C0314,Hauwa Okafor,08082525821,Ogbomoso,R03,Nigeria,Retail,173687,25-01-18,hauwa.okafor@company.ng
+C1020,Ngozi Adeyemi,08166129485,Okene,R09,Nigeria,Retail,1522383,03-12-20,n.adeyemi@outlook.com
+C0827,Khadijah Ugwu,08167948506,Nnewi,R05,Nigeria,Wholesale,3185558,07-02-21,khadijah.ugwu@gmail.com
+C0575,Amina Garba,08118727092,Biu,R12,Nigeria,Wholesale,2055766,15-01-22,amina.garba@gmail.com
+C0188,Khadijah Dikko,08175487238,Port Harcourt,R06,Nigeria,Retail,4007251,14-07-18,k.dikko@outlook.com
+C0816,Chinedu Obiora,08115470874,Oji River,R04,Nigeria,Retail,1376870,06-11-18,c.obiora@outlook.com
+C0935,Halima Nwachukwu,08152591387,Gwoza,R12,Nigeria,Retail,3463315,28-05-21,halima.nwachukwu@gmail.com
+C0221,Greenfield Yusuf Global Ventures,08193552232,Kabba,R09,Nigeria,Corporate,4309938,05-06-21,nkechi.yusuf@company.ng
+C0835,Obinna Makarfi,08054981284,Dukku,R13,Nigeria,Wholesale,3625118,23-07-22,obinna98@yahoo.com
+C0478,Bilkisu Okoro,Unknown,Ogbomoso,R03,Nigeria,Retail,535432,22-03-22,b.okoro@outlook.com
+C0084,Chidi Okafor,08092896822,Kano,R10,Nigeria,Retail,4477698,22-05-21,chidi61@yahoo.com
+C0474,Nkechi Agbo,Unknown,Onitsha,R05,Nigeria,Retail,1570350,14-11-22,n.agbo@outlook.com
+C0582,Ekene Okafor,08148602270,Zaria,R11,Nigeria,Wholesale,894627,28-09-21,ekene.okafor@company.ng
+C0873,Apex Onuoha & Associates,08154545327,Biu,R12,Nigeria,Corporate,3803662,29-01-21,t.onuoha@outlook.com
+C0571,Pronigeria Waziri & Sons,08103834985,Agbor,R07,Nigeria,Corporate,4503376,11-10-22,a.waziri@outlook.com
+C0227,Taiwo Eze,08164820042,Oyo,R03,Nigeria,Retail,4911303,08-04-20,taiwo.eze@gmail.com
+C0760,Babatunde Ezeani,08168131205,Port Harcourt,R06,Nigeria,Retail,286199,12-01-18,b.ezeani@outlook.com
+C0272,Nnamdi Osei,0819 8606760,Abeokuta,R02,Nigeria,Wholesale,2616642,03-12-20,nnamdi.osei@company.ng
+C1138,Aisha Obiora,08031388791,Okene,R09,Nigeria,SME,1295791,01-06-22,aisha.obiora@gmail.com
+C0716,Kano Funtua Enterprises,08079347585,Oji River,R04,Nigeria,Corporate,2702056,23-04-18,obinna.funtua@gmail.com
+C0993,Nkechi Ibrahim,Unknown,Abuja,R08,Nigeria,Wholesale,3866733,27-02-22,nkechi49@yahoo.com
+C0566,Nkechi Nwachukwu,0814 8207920,Gombe,R13,Nigeria,Retail,1066358,14-07-19,nkechi.nwachukwu@company.ng
+C0313,Chukwuemeka Kankara,Unknown,Onitsha,R05,Nigeria,Wholesale,3822239,01-01-23,chukwuemeka40@yahoo.com
+C0547,Safiya Babangida,08058882760,Lugbe,R08,Nigeria,Wholesale,616255,02-10-20,safiya.babangida@gmail.com
+C0634,Zainab Eze,0811 2492424,Gwoza,R12,Nigeria,Retail,4373815,01-06-20,zainab62@yahoo.com
+C1181,Unity Mbah & Associates,08172553423,Osogbo,R03,Nigeria,Corporate,4378885,14-05-23,ramat.mbah@company.ng
+C0558,Blessing Eze,08135270857,Kabba,R09,Nigeria,Retail,1119653,23-02-23,blessing.eze@company.ng
+C1071,Amina Dikko,0803 1796881,Kuje,R08,Nigeria,Wholesale,4634192,21-08-21,amina99@yahoo.com
+C0394,Apex Okoro Resources Ltd,08107415634,Sapele,R07,Nigeria,Corporate,4763348,13-12-19,aisha2@yahoo.com
+C0031,Ekene Lawal,08086313696,Eleme,R06,Nigeria,Retail,753935,03-12-23,ekene.lawal@company.ng
+C0656,Chukwuemeka Bello,08197593891,Lokoja,R09,Nigeria,Retail,252759,11-02-20,chukwuemeka33@yahoo.com
+C1186,Modupe Bello,08196377347,Asaba,R07,Nigeria,Retail,2059518,05-11-19,m.bello@outlook.com
+C0957,Tochukwu Abubakar,08054017641,Kaltungo,R13,Nigeria,Retail,2306727,21-05-20,tochukwu.abubakar@company.ng
+C0332,Chioma Lawal,08084291659,Nsukka,R04,Nigeria,Wholesale,1839704,21-07-19,chioma3@yahoo.com
+C0102,Ikechukwu Onyekachi,08089565617,Kabba,R09,Nigeria,Retail,1482340,25-10-22,i.onyekachi@outlook.com
+C0267,Hauwa Garba,08154488249,Dukku,R13,Nigeria,Wholesale,4655176,17-03-22,hauwa4@yahoo.com
+C0765,Gbemisola Garba,08064805045,Maiduguri,R12,Nigeria,Retail,366510,04-07-18,g.garba@outlook.com
+C1050,Ejike Shehu,08104610683,Gwagwalada,R08,Nigeria,Wholesale,4330196,21-02-18,ejike.shehu@gmail.com
+C1002,Zainab Obiechina,08039517954,Surulere,R01,Nigeria,Wholesale,4933473,06-12-18,zainab.obiechina@gmail.com
+C0694,Abuja Nwosu & Associates,08128320044,Oyo,R03,Nigeria,Corporate,1413430,28-01-18,s.nwosu@outlook.com
+C0193,Agrofirst Chibueze Ltd,0802 7130158,Asaba,R07,Nigeria,Corporate,3796238,18-05-21,olumide.chibueze@gmail.com
+C0519,Emeka Okonkwo,08083642810,Kafanchan,R11,Nigeria,Wholesale,3848499,22-06-23,emeka66@yahoo.com
+C0145,Aisha Obi,08103675460,Zaria,R11,Nigeria,Wholesale,1990261,31-12-22,aisha.obi@company.ng
+C0039,Gateway Okonkwo Enterprises,08119483860,Awka,R05,Nigeria,Corporate,4343369,04-08-22,mariam25@yahoo.com
+C1085,Amarachi Suleiman,08092494185,Abuja,R08,Nigeria,Retail,3076736,24-08-18,amarachi.suleiman@company.ng
+C1183,Somtochukwu Onuoha,0808 3899356,Ekwulobia,R05,Nigeria,SME,2063264,15-02-21,somtochukwu93@yahoo.com
+C0569,Pronigeria Chibueze Nigeria Ltd,08084466600,Gwagwalada,R08,Nigeria,Corporate,440281,23-04-18,funmilayo82@yahoo.com
+C0233,Tochukwu Hassan,08134013007,Gombe,R13,Nigeria,Retail,1267602,13-08-18,t.hassan@outlook.com
+C0559,Abdullahi Musa,08156516425,Oji River,R04,Nigeria,Wholesale,4277057,31-03-19,abdullahi.musa@gmail.com
+C0787,Chidi Kwankwaso,08018147550,Ogbomoso,R03,Nigeria,SME,4061659,12-03-18,chidi.kwankwaso@gmail.com
+C0497,Funmilayo Shehu,08039595616,Nnewi,R05,Nigeria,Wholesale,3575829,26-09-18,f.shehu@outlook.com
+C1160,Hauwa Agbo,0810 8801834,Enugu,R04,Nigeria,Retail,489824,12-01-20,hauwa.agbo@company.ng
+C0536,Uchenna Chibueze,08021356568,Sapele,R07,Nigeria,Retail,1335519,23-07-21,uchenna.chibueze@gmail.com
+C0037,Olamide Agbo,08163824446,Ekwulobia,R05,Nigeria,Wholesale,1346463,10-01-20,o.agbo@outlook.com
+C0736,Mariam Onuoha,0819 1246025,Gwoza,R12,Nigeria,Retail,4284421,04-01-18,mariam.onuoha@company.ng
+C1104,Gateway Ringim Ltd,0805 5906472,Okene,R09,Nigeria,Corporate,2663472,27-10-22,olumide.ringim@gmail.com
+C0020,Ebuka Lawal,Unknown,Eleme,R06,Nigeria,Wholesale,4064871,16-02-19,ebuka34@yahoo.com
+C0090,Unknown Customer,08027694508,Port Harcourt,R06,Nigeria,Retail,4489054,09-04-21,a.obiechina@outlook.com
+C0882,Niger Lawal & Associates,0813 6992678,Kuje,R08,Nigeria,Corporate,1157489,24-03-23,sochima87@yahoo.com
+C0178,Obinna Shehu,0810 6479432,Kabba,R09,Nigeria,Wholesale,3295688,14-06-21,o.shehu@outlook.com
+C0763,Uchenna Mbah,08063674692,Sagamu,R02,Nigeria,Retail,3761493,16-07-22,uchenna56@yahoo.com
+C1134,Gbemisola Abdullahi,08031980330,Nsukka,R04,Nigeria,Retail,1236422,15-03-22,g.abdullahi@outlook.com
+C0417,Ekene Babangida,08131608510,Oyo,R03,Nigeria,Retail,660686,01-04-22,ekene.babangida@company.ng
+C0613,Blessing Yusuf,0818 7927223,Nsukka,R04,Nigeria,Retail,3946104,31-05-23,blessing.yusuf@company.ng
+C1151,Chinonso Ringim,08171646067,Zaria,R11,Nigeria,Retail,73394,16-07-19,chinonso91@yahoo.com
+C0945,Titilayo Ezeani,0802 8729307,Awka,R05,Nigeria,Wholesale,1092485,04-02-19,t.ezeani@outlook.com
+C0700,Khadijah Funtua,08016762283,Eleme,R06,Nigeria,Retail,4827253,28-06-20,khadijah.funtua@company.ng
+C0423,Zainab Bello,0805 6191473,Ikeja,R01,Nigeria,Retail,3712146,05-03-23,zainab.bello@gmail.com
+C0466,Amina Aliyu,08067084887,Asaba,R07,Nigeria,SME,1908589,25-04-18,amina35@yahoo.com
+C1112,Niger Agbo Trading Co.,0817 6290449,Ijebu-Ode,R02,Nigeria,Corporate,4129491,30-11-22,adewale.agbo@gmail.com
+C1128,Onyeka Babangida,08199907394,Kaltungo,R13,Nigeria,Retail,1939484,21-10-18,onyeka.babangida@gmail.com
+C0583,Mariam Onyekachi,0812 3526904,Nsukka,R04,Nigeria,Retail,4155130,12-02-19,mariam.onyekachi@company.ng
+C1168,Emeka Bello,08124880529,Dukku,R13,Nigeria,Retail,2326360,30-04-23,emeka.bello@company.ng
+C0495,Chukwuemeka Kankara,08011242334,Kafanchan,R11,Nigeria,Wholesale,4951420,19-08-22,chukwuemeka40@yahoo.com
+C0865,Chinedu Dikko,08111382572,Zaria,R11,Nigeria,Retail,4914025,21-01-20,c.dikko@outlook.com
+C1124,Amarachi Nwankwo,08099955478,Oji River,R04,Nigeria,Wholesale,804770,25-09-22,amarachi.nwankwo@company.ng
+C0026,Onyeka Abubakar,08084579635,Lokoja,R09,Nigeria,Unknown Segment,554737,20-04-21,Invalid Email
+C0907,Obinna Babangida,08165840738,Maiduguri,R12,Nigeria,Retail,3192091,17-09-18,o.babangida@outlook.com
+C0331,Aisha Abubakar,0806 6555883,Oji River,R04,Nigeria,Retail,3527166,12-10-18,aisha26@yahoo.com
+C0231,Lawal Umar,08039889528,Kano,R10,Nigeria,Retail,2055752,14-01-20,Invalid Email
+C0983,Yahaya Anozie,08094536989,Biu,R12,Nigeria,Retail,4809249,07-04-19,yahaya.anozie@company.ng
+C1048,Yetunde Chukwu,08113532887,Okene,R09,Nigeria,Retail,1141204,17-11-22,y.chukwu@outlook.com
+C1116,Chukwuemeka Okoro,0819 3838768,Lugbe,R08,Nigeria,Wholesale,4002561,11-05-23,c.okoro@outlook.com
+C0981,Kano Suleiman & Associates,08195551819,Osogbo,R03,Nigeria,Corporate,1125098,05-07-22,ramatu.suleiman@company.ng
+C0326,Kenechukwu Chukwu,0817 2643631,Sagamu,R02,Nigeria,Wholesale,95349,14-12-21,kenechukwu13@yahoo.com
+C1164,Ramatu Osei,0814 9665817,Surulere,R01,Nigeria,Wholesale,4303997,16-04-20,Invalid Email
+C0845,Premier Babangida Nigeria Ltd,0814 6607048,Rano,R10,Nigeria,Corporate,2485418,04-03-19,emeka.babangida@company.ng
+C0630,Sochima Hassan,0802 1009027,Okene,R09,Nigeria,Wholesale,4240011,28-04-19,sochima96@yahoo.com
+C0024,Unknown Customer,08178448850,Kafanchan,R11,Nigeria,Retail,1252767,27-05-20,uchenna95@yahoo.com
+C0239,Blessing Babangida,08024142178,Okene,R09,Nigeria,Wholesale,1762990,11-06-22,blessing.babangida@company.ng
+C0053,Hauwa Musa,08104922386,Maiduguri,R12,Nigeria,Retail,1926007,12-05-23,h.musa@outlook.com
+C0341,Nkechi Agbo,08195968956,Zaria,R11,Nigeria,Wholesale,4165077,05-10-18,nkechi44@yahoo.com
+C0253,Zainab Babangida,08114850773,Zaria,R11,Nigeria,Retail,421846,20-04-21,zainab.babangida@gmail.com
+C0440,Amina Agbo,08172156864,Lagos,R01,Nigeria,Wholesale,3896733,11-01-20,amina.agbo@company.ng
+C0358,Horizon Mbah Ltd,08101668149,Kaltungo,R13,Nigeria,Corporate,4472011,16-09-22,amina80@yahoo.com
+C0414,Taiwo Okeke,0810 6074000,Ikeja,R01,Nigeria,Retail,76868,01-09-21,t.okeke@outlook.com
+C0911,Adeola Obiora,08167021119,Obio-Akpor,R06,Nigeria,SME,4562052,30-01-23,adeola.obiora@company.ng
+C0550,Chinedu Nwankwo,08055876803,Gwagwalada,R08,Nigeria,Retail,719906,15-01-20,chinedu29@yahoo.com
+C0818,Chinonso Anozie,08055230246,Lekki,R01,Nigeria,Wholesale,2599884,05-10-21,c.anozie@outlook.com
+C1026,Chibuzor Obi,0801 7980809,Onitsha,R05,Nigeria,Retail,2670794,09-04-20,c.obi@outlook.com
+C0397,Greenfield Abdullahi Trading Co.,08135431396,Kaltungo,R13,Nigeria,Corporate,4359413,03-12-22,chinonso80@yahoo.com
+C0444,Peak Aliyu Trading Co.,08181338818,Sagamu,R02,Nigeria,Corporate,3878344,24-10-19,emeka.aliyu@gmail.com
+C0452,Ifeanyi Musa,08052656810,Bichi,R10,Nigeria,Wholesale,1931892,01-01-21,i.musa@outlook.com
+C0106,Amina Danladi,0801 7834625,Agbor,R07,Nigeria,Retail,4155427,26-09-20,a.danladi@outlook.com
+C0303,Kenechukwu Adeyemi,08161500770,Kafanchan,R11,Nigeria,Retail,3475035,07-10-18,kenechukwu68@yahoo.com
+C0140,Gbemisola Nwachukwu,08178816777,Ekwulobia,R05,Nigeria,Wholesale,4979652,03-09-21,gbemisola.nwachukwu@gmail.com
+C0562,Pronigeria Okeke Nigeria Ltd,08019834608,Sagamu,R02,Nigeria,Corporate,4428739,13-08-19,ngozi99@yahoo.com
+C0041,Chinedu Obiechina,08052399406,Maiduguri,R12,Nigeria,Wholesale,1279412,22-04-21,chinedu.obiechina@company.ng
+C1037,Nnamdi Ihejirika,08086373608,Osogbo,R03,Nigeria,Retail,1624841,18-10-20,nnamdi37@yahoo.com
+C0378,Abdullahi Umar,08062964912,Eleme,R06,Nigeria,Retail,4309757,08-10-19,abdullahi20@yahoo.com
+C0891,Ezinne Lawal,08016438530,Nnewi,R05,Nigeria,Retail,3679575,16-12-19,e.lawal@outlook.com
+C1087,Ezinne Ibrahim,08065841780,Kabba,R09,Nigeria,SME,3965180,02-12-18,e.ibrahim@outlook.com
+C0487,Greenfield Osei Nigeria Ltd,08063708700,Lagos,R01,Nigeria,Corporate,2564146,16-02-23,chukwuemeka.osei@company.ng
+C0728,Amina Okoro,08182687518,Kafanchan,R11,Nigeria,Retail,189537,09-06-22,amina.okoro@gmail.com
+C0577,Amarachi Suleiman,08064240863,Port Harcourt,R06,Nigeria,Wholesale,2359701,04-08-19,amarachi77@yahoo.com
+C1065,Ekene Waziri,0806 2950129,Apapa,R01,Nigeria,Wholesale,2155703,19-02-19,e.waziri@outlook.com
+C0496,Mariam Yusuf,08051769930,Kafanchan,R11,Nigeria,Wholesale,4489732,18-04-22,mariam.yusuf@gmail.com
+C0446,Uchenna Waziri,08072931522,Kabba,R09,Nigeria,Retail,973575,09-09-19,uchenna.waziri@company.ng
+C0340,Peak Aliyu Resources Ltd,08057706245,Abeokuta,R02,Nigeria,Corporate,2520298,15-01-19,zainab.aliyu@company.ng
+C0904,Zainab Musa,08119829335,Gwoza,R12,Nigeria,Wholesale,1182278,28-11-20,zainab93@yahoo.com
+C0649,Sunrise Okonkwu & Sons,08164957217,Lekki,R01,Nigeria,Corporate,1491332,22-11-22,i.okonkwu@outlook.com
+C0111,Chinonso Abubakar,Unknown,Okene,R09,Nigeria,Retail,3261484,25-07-21,c.abubakar@outlook.com
+C0595,Ebuka Obi,0814 1724819,Maiduguri,R12,Nigeria,Retail,3152118,03-02-18,ebuka66@yahoo.com
+C0139,Funmilayo Obiora,08061677324,Eleme,R06,Nigeria,Wholesale,421987,31-03-20,f.obiora@outlook.com
+C1099,Sochima Okonkwu,0806 4799832,Asaba,R07,Nigeria,Wholesale,2757701,18-08-22,sochima.okonkwu@gmail.com
+C0784,Delta Obi Resources Ltd,08089600124,Kafanchan,R11,Nigeria,Corporate,4195480,20-03-20,damilola77@yahoo.com
+C1034,Delta Okonkwo Nigeria Ltd,08164386676,Onitsha,R05,Nigeria,Corporate,216525,19-09-22,f.okonkwo@outlook.com
+C1108,Eko Ringim Group,0810 6074889,Kuje,R08,Nigeria,Corporate,106750,31-12-21,mariam.ringim@company.ng
+C0264,Apex Ugwu Resources Ltd,08119538501,Kafanchan,R11,Nigeria,Corporate,191646,31-08-20,lawal.ugwu@company.ng
+C0984,Abdullahi Makarfi,08146195391,Gwagwalada,R08,Nigeria,Retail,4742984,06-07-19,abdullahi.makarfi@company.ng
+C1023,Blessing Chukwu,08193416789,Oyo,R03,Nigeria,Wholesale,1792431,19-05-19,b.chukwu@outlook.com
+C0971,Chukwuemeka Adeyemi,08101871231,Sagamu,R02,Nigeria,SME,4009312,09-06-20,chukwuemeka.adeyemi@gmail.com
+C0347,Ezinne Osei,0803 6809550,Wudil,R10,Nigeria,Retail,1148613,25-05-22,e.osei@outlook.com
+C0713,Blessing Anozie,08027674077,Okene,R09,Nigeria,Retail,3628452,28-01-23,blessing90@yahoo.com
+C0974,Ebuka Nzeka,0819 3893589,Asaba,R07,Nigeria,Retail,3321880,23-09-21,ebuka.nzeka@gmail.com
+C0366,Peak Onyekachi Enterprises,08137204514,Obio-Akpor,R06,Nigeria,Corporate,257255,06-04-21,Invalid Email
+C0999,Onyeka Umar,0819 1059466,Gwagwalada,R08,Nigeria,Retail,603348,26-04-23,Invalid Email
+C0790,Techbase Obi Ltd,08084695498,Ibadan,R03,Nigeria,Corporate,3158029,03-06-18,e.obi@outlook.com
+C0526,Nkechi Okeke,08118785708,Sapele,R07,Nigeria,Retail,3897897,18-11-18,n.okeke@outlook.com
+C0651,Titilayo Hassan,08018812960,Kabba,R09,Nigeria,Wholesale,3346354,11-10-19,titilayo.hassan@company.ng
+C1101,Adaeze Gwarzo,0818 9760973,Lokoja,R09,Nigeria,Unknown Segment,860462,13-10-18,adaeze47@yahoo.com
+C0934,Olamide Abubakar,08149995475,Abeokuta,R02,Nigeria,Wholesale,1177161,13-05-23,olamide2@yahoo.com
+C0050,Zainab Obiechina,08185344449,Ijebu-Ode,R02,Nigeria,Retail,1190544,04-12-20,zainab.obiechina@company.ng
+C1076,Chinedu Nwachukwu,08193452181,Asaba,R07,Nigeria,Retail,1222872,23-09-21,c.nwachukwu@outlook.com
+C0289,Khadijah Osei,08083353172,Ijebu-Ode,R02,Nigeria,Retail,1495413,04-09-22,khadijah.osei@company.ng
+C0853,Taiwo Lawal,0808 2666198,Awka,R05,Nigeria,Wholesale,3386449,21-11-21,taiwo85@yahoo.com
+C0658,Oluwaseun Funtua,08093016142,Ekwulobia,R05,Nigeria,Retail,825821,24-05-19,o.funtua@outlook.com
+C0767,Khadijah Okonkwu,08154815467,Bonny,R06,Nigeria,Wholesale,1700052,24-06-22,khadijah.okonkwu@company.ng
+C0966,Unknown Customer,0818 3526177,Kaltungo,R13,Nigeria,Wholesale,1728686,27-07-21,aisha80@yahoo.com
+C0353,Unknown Customer,08101690818,Wudil,R10,Nigeria,Wholesale,1926514,08-06-19,emeka.okoro@gmail.com
+C0798,Chidi Chukwu,0808 2540321,Kabba,R09,Nigeria,Wholesale,2392908,30-07-21,chidi.chukwu@company.ng
+C0189,Greenfield Obi Resources Ltd,08136883776,Ijebu-Ode,R02,Nigeria,Corporate,786132,04-03-22,fatima.obi@gmail.com
+C0674,Oluwaseun Adeyemi,08139048258,Kafanchan,R11,Nigeria,Retail,1733442,23-06-22,o.adeyemi@outlook.com
+C0279,Ifeanyi Ihejirika,08077207821,Ekwulobia,R05,Nigeria,Retail,4341676,10-07-19,ifeanyi49@yahoo.com
+C0870,Khadijah Ihejirika,0817 3850825,Gombe,R13,Nigeria,Wholesale,158024,14-11-19,khadijah.ihejirika@company.ng
+C0022,Techbase Yusuf Resources Ltd,08128105601,Oyo,R03,Nigeria,Corporate,3968243,15-11-21,jumoke72@yahoo.com
+C0380,Blessing Ihejirika,0814 5821276,Gwoza,R12,Nigeria,Retail,2545847,06-02-22,blessing18@yahoo.com
+C0692,Hauwa Shehu,08057836654,Bonny,R06,Nigeria,Wholesale,114999,23-03-19,hauwa53@yahoo.com
+C1179,Damilola Nzeka,0815 9757029,Nsukka,R04,Nigeria,Retail,2396019,05-10-18,damilola42@yahoo.com
+C0609,Unknown Customer,08015434366,Obio-Akpor,R06,Nigeria,Retail,564077,23-10-22,halima.onyekachi@company.ng
+C0693,Aisha Obi,08057846429,Lugbe,R08,Nigeria,Retail,3634444,30-12-18,a.obi@outlook.com
+C0304,Uche Chukwu,08031466061,Gombe,R13,Nigeria,Wholesale,3789300,03-04-20,u.chukwu@outlook.com
+C1078,Unknown Customer,0815 3195533,Ijebu-Ode,R02,Nigeria,Retail,2644472,27-02-18,s.eze@outlook.com
+C0598,Gbemisola Suleiman,0806 5666840,Kafanchan,R11,Nigeria,Retail,1683308,01-02-23,g.suleiman@outlook.com
+C0688,Emeka Abdullahi,08179465868,Bonny,R06,Nigeria,SME,1907676,01-03-18,emeka.abdullahi@company.ng
+C0802,Titilayo Okeke,Unknown,Kuje,R08,Nigeria,Retail,2496034,14-04-18,Invalid Email
+C0710,Blessing Mbah,08076568756,Lagos,R01,Nigeria,SME,4243703,18-11-19,blessing.mbah@company.ng
+C0913,Blessing Umar,0819 3987015,Kaltungo,R13,Nigeria,Retail,2972442,10-11-18,b.umar@outlook.com
+C1022,Funmilayo Abubakar,08051534072,Dukku,R13,Nigeria,Wholesale,3122413,12-11-18,funmilayo.abubakar@gmail.com
+C0997,Modupe Nzeka,Unknown,Kabba,R09,Nigeria,Wholesale,1599080,18-12-20,Invalid Email
+C0769,Modupe Ugwu,08192670587,Awka,R05,Nigeria,SME,2821152,26-10-21,modupe.ugwu@gmail.com
+C0542,Chibuzor Ibrahim,0805 2667909,Port Harcourt,R06,Nigeria,Retail,4180379,19-04-20,chibuzor78@yahoo.com
+C1075,Hauwa Funtua,0801 5878831,Kaduna,R11,Nigeria,Retail,2128924,15-12-18,hauwa.funtua@gmail.com
+C0952,Chibuzor Adeyemi,08015031226,Agbor,R07,Nigeria,Retail,3616326,21-11-22,chibuzor.adeyemi@gmail.com
+C0912,Yewande Danladi,0809 4137879,Kaltungo,R13,Nigeria,Wholesale,2222282,01-09-20,yewande7@yahoo.com
+C0641,Adewale Eze,08187364945,Maiduguri,R12,Nigeria,Retail,543661,04-12-19,adewale14@yahoo.com
+C0114,Funmilayo Dikko,08101529111,Maiduguri,R12,Nigeria,Retail,4346511,05-10-18,Invalid Email
+C0295,Emeka Tukur,08164253802,Kuje,R08,Nigeria,Wholesale,2659744,17-01-18,emeka24@yahoo.com
+C1082,Chibuzor Ibrahim,0814 4017130,Wudil,R10,Nigeria,Retail,2167872,02-09-19,c.ibrahim@outlook.com
+C1054,Hauwa Babangida,08116480412,Gwoza,R12,Nigeria,Wholesale,4704237,02-05-23,h.babangida@outlook.com
+C0054,Kano Okonkwo Integrated Services,08117424899,Surulere,R01,Nigeria,Corporate,4923923,11-01-21,ngozi92@yahoo.com
+C0351,Lawal Agbo,0818 8291835,Apapa,R01,Nigeria,Retail,3296475,10-03-20,lawal.agbo@company.ng
+C1006,Maryam Agbo,08166821316,Gombe,R13,Nigeria,Retail,2248846,19-01-20,maryam.agbo@gmail.com
+C0363,Adaeze Aliyu,08067441997,Oyo,R03,Nigeria,Retail,1579087,28-06-21,a.aliyu@outlook.com
+C0849,Techbase Yusuf Group,08113231079,Gombe,R13,Nigeria,Corporate,3452984,07-08-22,Invalid Email
+C0192,Chidi Lawal,08118015207,Port Harcourt,R06,Nigeria,Retail,2398714,22-11-19,chidi.lawal@gmail.com
+C0406,Olumide Nwachukwu,08144791201,Bichi,R10,Nigeria,Retail,3240649,24-04-21,olumide.nwachukwu@company.ng
+C0196,Adaeze Bello,08109920916,Port Harcourt,R06,Nigeria,Retail,889621,11-12-22,adaeze.bello@company.ng
+C0407,Premier Waziri Global Ventures,08073287792,Oyo,R03,Nigeria,Corporate,1652915,26-07-22,s.waziri@outlook.com
+C0813,Funmilayo Lawal,08011423269,Bonny,R06,Nigeria,Retail,4184549,15-09-18,funmilayo.lawal@company.ng
+C0719,Lagos Obi & Associates,08074299819,Enugu,R04,Nigeria,Corporate,4519609,13-01-22,lawal75@yahoo.com
+C0663,Ejike Ezeani,08188169796,Obio-Akpor,R06,Nigeria,Retail,2580347,18-09-20,ejike.ezeani@gmail.com
+C0623,Bilkisu Okonkwo,08055013169,Okene,R09,Nigeria,Retail,2591007,12-01-21,bilkisu73@yahoo.com
+C0855,Ikechukwu Obi,08114577409,Sapele,R07,Nigeria,Retail,2292216,10-04-23,ikechukwu4@yahoo.com
+C0044,Chibuzor Ringim,08061169833,Nsukka,R04,Nigeria,Retail,1710296,15-09-22,chibuzor.ringim@company.ng
+C0785,Onyeka Dikko,08016601323,Gwoza,R12,Nigeria,Wholesale,2809337,07-01-19,onyeka.dikko@gmail.com
+C0266,Safiya Ihejirika,08137983518,Abeokuta,R02,Nigeria,SME,133816,15-09-20,safiya.ihejirika@gmail.com
+C1051,Hauwa Ihejirika,Unknown,Warri,R07,Nigeria,Retail,880187,09-02-19,hauwa.ihejirika@company.ng
+C0732,Agrofirst Aliyu Nigeria Ltd,08035504661,Oyo,R03,Nigeria,Corporate,4685211,20-05-22,Invalid Email
+C0756,Ramat Gwarzo,08025256517,Eleme,R06,Nigeria,Retail,607528,07-11-18,ramat.gwarzo@gmail.com
+C0586,Premier Okoro Resources Ltd,0803 7066531,Apapa,R01,Nigeria,Corporate,4761092,20-04-19,yewande.okoro@company.ng
+C1056,Greenfield Okeke Ltd,08149818011,Kaduna,R11,Nigeria,Corporate,2048519,15-05-18,abdullahi.okeke@gmail.com
+C0989,Chinonso Nzeka,08162446155,Ijebu-Ode,R02,Nigeria,Wholesale,671802,17-10-22,chinonso.nzeka@company.ng
+C1150,Ramat Yusuf,08083474561,Kano,R10,Nigeria,SME,1646711,30-04-23,ramat.yusuf@gmail.com
+C0465,Amina Chibueze,0801 9038912,Maiduguri,R12,Nigeria,Wholesale,3205047,25-04-21,amina.chibueze@gmail.com
+C0540,Halima Ugwu,0813 6633662,Surulere,R01,Nigeria,Wholesale,4228725,13-01-22,halima18@yahoo.com
+C0070,Adewale Ringim,08086062917,Lekki,R01,Nigeria,Retail,3501535,25-11-20,a.ringim@outlook.com
+C0917,Sunrise Chibueze Ltd,08098830582,Lagos,R01,Nigeria,Corporate,4454528,08-12-20,n.chibueze@outlook.com
+C0800,Tochukwu Okoro,08127727694,Gwoza,R12,Nigeria,Wholesale,2483083,29-10-19,tochukwu30@yahoo.com
+C0209,Adewale Eze,08115609872,Enugu,R04,Nigeria,SME,1064420,17-03-18,adewale57@yahoo.com
+C0968,Yahaya Osei,08103116950,Agbor,R07,Nigeria,Retail,2169100,10-02-21,y.osei@outlook.com
+C1098,Horizon Makarfi & Sons,08102132795,Awka,R05,Nigeria,Corporate,1939149,04-09-19,ngozi80@yahoo.com
+C0367,Techbase Waziri Trading Co.,08176773368,Okene,R09,Nigeria,Corporate,4622970,25-02-20,bilkisu35@yahoo.com
+C0753,Chukwuemeka Anyanwu,08156276399,Abeokuta,R02,Nigeria,SME,1151188,28-05-21,chukwuemeka.anyanwu@company.ng
+C1061,Peak Ihejirika Resources Ltd,08084534158,Kabba,R09,Nigeria,Corporate,848585,01-04-22,amina.ihejirika@company.ng
+C0830,Blessing Mbah,0805 2899636,Kaltungo,R13,Nigeria,Unknown Segment,4630785,22-04-23,blessing.mbah@company.ng
+C0408,Delta Abubakar Ltd,08123447109,Lugbe,R08,Nigeria,Corporate,1925914,24-05-20,r.abubakar@outlook.com
+C0925,Khadijah Adeyemi,0816 3613537,Onitsha,R05,Nigeria,Retail,655464,27-01-22,k.adeyemi@outlook.com
+C0841,Uchenna Agbo,0810 4533180,Bonny,R06,Nigeria,Retail,2209543,03-05-19,uchenna.agbo@gmail.com
+C0880,Ifeanyi Chukwu,0802 7815878,Kaltungo,R13,Nigeria,Wholesale,239278,25-01-22,ifeanyi25@yahoo.com
+C1000,Mariam Tukur,08054422792,Apapa,R01,Nigeria,Retail,842101,13-06-18,mariam.tukur@gmail.com
+C0225,Lagos Okeke Integrated Services,0805 3431151,Enugu,R04,Nigeria,Corporate,1123129,12-06-20,bilkisu38@yahoo.com
+C1144,Chioma Makarfi,08101089028,Bichi,R10,Nigeria,Wholesale,3918738,20-03-19,chioma.makarfi@gmail.com
+C0746,Bilkisu Nwachukwu,08175744855,Awka,R05,Nigeria,Wholesale,3144039,02-11-18,b.nwachukwu@outlook.com
+C0181,Emeka Ihejirika,08039779883,Enugu,R04,Nigeria,Retail,3121218,10-08-19,emeka37@yahoo.com
+C1069,Zainab Okafor,0815 9855461,Wudil,R10,Nigeria,Wholesale,3380373,03-07-21,zainab.okafor@gmail.com
+C0629,Maryam Yusuf,08015075438,Eleme,R06,Nigeria,Retail,3921590,17-06-22,maryam.yusuf@company.ng
+C0612,Olamide Obiora,08142405673,Gwoza,R12,Nigeria,Retail,406878,17-04-18,olamide.obiora@company.ng
+C0884,Ekene Garba,0812 5758083,Eleme,R06,Nigeria,Retail,4570689,04-02-18,ekene.garba@company.ng
+C0687,Abuja Mbah Resources Ltd,08115078623,Eleme,R06,Nigeria,Corporate,3610806,31-03-19,a.mbah@outlook.com
+C1115,Ikechukwu Okoro,08016791794,Nsukka,R04,Nigeria,Retail,1532891,22-08-22,ikechukwu.okoro@company.ng
+C0762,Techbase Gwarzo Trading Co.,0811 6140534,Zaria,R11,Nigeria,Corporate,2187210,12-02-21,chibuzor.gwarzo@gmail.com
+C0541,Yahaya Okeke,08168184859,Apapa,R01,Nigeria,Retail,3655454,16-03-21,y.okeke@outlook.com
+C0975,Safiya Okeke,08058243752,Rano,R10,Nigeria,Retail,2489633,28-03-19,s.okeke@outlook.com
+C0035,Amina Ibrahim,08018393398,Gombe,R13,Nigeria,Retail,2081153,17-12-18,a.ibrahim@outlook.com
+C0726,Ejike Ibrahim,08037007562,Nnewi,R05,Nigeria,Retail,4291738,04-07-23,ejike74@yahoo.com
+C0843,Somtochukwu Okoro,08072497478,Kafanchan,R11,Nigeria,SME,701114,25-03-20,somtochukwu.okoro@gmail.com
+C0032,Sunrise Aliyu Trading Co.,08082685234,Okene,R09,Nigeria,Corporate,1884162,27-05-23,i.aliyu@outlook.com
+C0538,Somtochukwu Bello,0805 5118193,Enugu,R04,Nigeria,Retail,4451545,24-03-21,somtochukwu.bello@gmail.com
+C1003,Nnamdi Makarfi,08088179432,Gwoza,R12,Nigeria,Wholesale,3920179,23-03-22,nnamdi.makarfi@gmail.com
+C1100,Obinna Chukwu,08135225356,Abuja,R08,Nigeria,Wholesale,912090,28-10-20,obinna.chukwu@company.ng
+C0292,Emeka Adeyemi,08088846172,Oyo,R03,Nigeria,Wholesale,4839695,26-12-21,emeka.adeyemi@company.ng
+C0544,Amarachi Eze,08092063500,Sagamu,R02,Nigeria,Retail,2073105,02-06-19,amarachi.eze@company.ng
+C0431,Greenfield Bello Global Ventures,08039365473,Oyo,R03,Nigeria,Corporate,1086759,10-07-19,z.bello@outlook.com
+C0931,Ikechukwu Okonkwo,08118063825,Gwagwalada,R08,Nigeria,Retail,615599,14-03-23,ikechukwu.okonkwo@gmail.com
+C0168,Modupe Tukur,0801 5576402,Kaduna,R11,Nigeria,Retail,3452684,08-12-20,modupe.tukur@company.ng
+C0328,Pronigeria Nwosu Nigeria Ltd,08029778814,Kano,R10,Nigeria,Corporate,844169,20-02-22,adaeze.nwosu@company.ng
+C0589,Uche Onyekachi,08141649314,Sapele,R07,Nigeria,Retail,2105641,10-08-19,uche.onyekachi@company.ng
+C0781,Onyeka Danladi,08165714136,Dukku,R13,Nigeria,Unknown Segment,878774,25-01-21,o.danladi@outlook.com
+C0520,Kenechukwu Okonkwo,08095278917,Obio-Akpor,R06,Nigeria,Wholesale,3310310,31-03-18,kenechukwu.okonkwo@gmail.com
+C0967,Nkechi Funtua,0811 4698187,Kaltungo,R13,Nigeria,Retail,2474146,04-05-23,n.funtua@outlook.com
+C0617,Obinna Yusuf,08092171115,Oji River,R04,Nigeria,Retail,1321037,03-12-22,obinna45@yahoo.com
+C0012,Unknown Customer,0812 1421814,Gombe,R13,Nigeria,Retail,4705438,23-08-18,h.waziri@outlook.com
+C0923,Sunrise Obi Resources Ltd,08086331802,Ekwulobia,R05,Nigeria,Corporate,2785065,21-07-20,m.obi@outlook.com
+C1036,Adeola Anyanwu,08098304435,Lokoja,R09,Nigeria,Retail,1298041,19-03-21,a.anyanwu@outlook.com
+C1173,Chidi Adeyemi,08182917340,Gwoza,R12,Nigeria,Wholesale,4084734,28-10-20,chidi28@yahoo.com
+C0410,Adewale Ibrahim,08162576449,Abeokuta,R02,Nigeria,SME,2362027,19-12-18,adewale9@yahoo.com
+C0819,Apex Chukwu Resources Ltd,0812 6461720,Osogbo,R03,Nigeria,Corporate,2763165,14-10-20,obinna21@yahoo.com
+C0775,Nnamdi Tukur,08151354668,Kafanchan,R11,Nigeria,Retail,1249929,15-08-21,n.tukur@outlook.com
+C0661,Zainab Garba,08053867491,Ibadan,R03,Nigeria,Retail,3875988,06-12-22,zainab.garba@company.ng
+C0468,Modupe Nwosu,08114430007,Kafanchan,R11,Nigeria,SME,2334764,30-04-23,modupe.nwosu@company.ng
+C0116,Horizon Kankara Ltd,08099927782,Maiduguri,R12,Nigeria,Corporate,4868653,03-12-21,aisha57@yahoo.com
+C0213,Maryam Nzeka,0816 5085700,Oji River,R04,Nigeria,SME,2077668,14-10-19,Invalid Email
+C0034,Uche Waziri,08055528457,Oyo,R03,Nigeria,Retail,4675965,22-09-19,uche86@yahoo.com
+C0636,Niger Aliyu Integrated Services,0807 6287498,Eleme,R06,Nigeria,Corporate,1821571,01-02-19,adeola.aliyu@company.ng
+C0063,Eko Ihejirika Enterprises,08077276138,Rano,R10,Nigeria,Corporate,134210,28-04-18,r.ihejirika@outlook.com
+C0890,Sochima Ringim,08104213093,Awka,R05,Nigeria,Wholesale,3117570,25-10-18,s.ringim@outlook.com
+C0211,Mariam Gwarzo,08177875877,Ikeja,R01,Nigeria,Retail,3377869,17-12-21,mariam5@yahoo.com
+C1141,Halima Anyanwu,08027182317,Dukku,R13,Nigeria,Retail,4141625,10-05-22,halima.anyanwu@company.ng
+C0162,Adeola Okonkwo,08024297391,Obio-Akpor,R06,Nigeria,Retail,2475037,24-03-23,adeola37@yahoo.com
+C0570,Chukwuemeka Makarfi,08167790822,Sapele,R07,Nigeria,Retail,4188430,20-01-21,chukwuemeka78@yahoo.com
+C1113,Damilola Abdullahi,08086209410,Lokoja,R09,Nigeria,SME,338594,08-01-22,damilola.abdullahi@company.ng
+C0834,Apex Okonkwu Group,08109463272,Lokoja,R09,Nigeria,Corporate,695224,29-04-23,folake93@yahoo.com
+C0451,Ngozi Ugwu,08176881570,Kuje,R08,Nigeria,Wholesale,4520140,23-12-22,ngozi18@yahoo.com
+C0261,Kenechukwu Okonkwo,08012930256,Rano,R10,Nigeria,Unknown Segment,2390902,27-03-18,kenechukwu.okonkwo@company.ng
+C1111,Sunrise Babangida & Associates,0801 8189007,Agbor,R07,Nigeria,Corporate,2992357,20-10-22,ramatu1@yahoo.com
+C0433,Delta Yusuf Ltd,08107375630,Kabba,R09,Nigeria,Corporate,2019996,27-06-20,oluwaseun48@yahoo.com
+C0839,Yetunde Garba,08083214934,Kafanchan,R11,Nigeria,Wholesale,4843177,22-05-23,yetunde.garba@gmail.com
+C0183,Halima Waziri,08085872500,Bonny,R06,Nigeria,SME,2902099,12-03-19,halima.waziri@company.ng
+C0887,Abuja Chibueze Enterprises,08072667663,Dukku,R13,Nigeria,Corporate,1034384,18-02-18,j.chibueze@outlook.com
+C0655,Khadijah Kankara,08159232966,Ibadan,R03,Nigeria,Retail,3093615,03-01-19,k.kankara@outlook.com
+C0614,Unity Gwarzo Integrated Services,08024630043,Biu,R12,Nigeria,Corporate,244286,04-11-20,ngozi.gwarzo@company.ng
+C0320,Yewande Tukur,08148512009,Gwagwalada,R08,Nigeria,Retail,2938146,03-07-23,yewande.tukur@gmail.com
+C0871,Chioma Bello,0811 6677171,Lugbe,R08,Nigeria,Retail,2606387,11-04-19,chioma.bello@gmail.com
+C0082,Amarachi Umar,08133954970,Agbor,R07,Nigeria,Retail,1714229,01-10-18,amarachi.umar@gmail.com
+C0048,Gateway Ezeani & Associates,08129747715,Awka,R05,Nigeria,Corporate,50294,23-01-23,olumide30@yahoo.com
+C0411,Jumoke Chibueze,08054306618,Awka,R05,Nigeria,Retail,4413372,11-10-22,jumoke.chibueze@gmail.com
+C0624,Yewande Eze,08092806240,Agbor,R07,Nigeria,Wholesale,1783900,23-11-18,yewande.eze@gmail.com
+C0642,Niger Okafor Integrated Services,08165442924,Onitsha,R05,Nigeria,Corporate,2436626,01-11-20,olumide.okafor@gmail.com
+C0745,Aisha Mbah,0819 1567681,Abeokuta,R02,Nigeria,Wholesale,4462367,09-02-23,a.mbah@outlook.com
+C0115,Yewande Ugwu,08021570130,Obio-Akpor,R06,Nigeria,Retail,1324529,06-04-23,y.ugwu@outlook.com
+C0817,Rukayat Umar,08156882576,Abeokuta,R02,Nigeria,Wholesale,4847643,27-08-20,Invalid Email
+C0585,Tochukwu Obi,0809 2478346,Okene,R09,Nigeria,SME,2238122,29-09-21,t.obi@outlook.com
+C1191,Fatima Babangida,08053023245,Kabba,R09,Nigeria,Wholesale,3709660,17-09-18,fatima19@yahoo.com
+C0001,Zainab Ringim,08029438571,Sagamu,R02,Nigeria,Retail,2185730,09-12-22,Invalid Email
+C0752,Onyeka Suleiman,0809 5903509,Oji River,R04,Nigeria,Retail,1191053,08-11-18,onyeka.suleiman@gmail.com
+C0201,Ezinne Nwankwo,0816 9200888,Oji River,R04,Nigeria,Retail,763601,10-05-18,ezinne.nwankwo@company.ng
+C0416,Ekene Yusuf,0810 2944923,Okene,R09,Nigeria,Retail,2994955,08-10-19,ekene.yusuf@company.ng
+C0782,Khadijah Aliyu,08019866861,Enugu,R04,Nigeria,Retail,2528422,06-03-18,k.aliyu@outlook.com
+C1132,Pronigeria Nwosu Ltd,08011092076,Awka,R05,Nigeria,Corporate,4178066,10-03-19,e.nwosu@outlook.com
+C0076,Unknown Customer,08137964415,Osogbo,R03,Nigeria,Wholesale,2974647,19-10-22,chidi.lawal@gmail.com
+C0507,Obinna Waziri,08119058158,Gombe,R13,Nigeria,Retail,2729092,22-09-22,obinna.waziri@gmail.com
+C0836,Unknown Customer,08165104309,Abuja,R08,Nigeria,Corporate,1221612,21-08-20,maryam.chibueze@gmail.com
+C0851,Ramatu Aliyu,08149961904,Awka,R05,Nigeria,Retail,4137297,03-09-20,ramatu75@yahoo.com
+C1184,Adaeze Babangida,08099728231,Agbor,R07,Nigeria,Retail,2095354,18-12-18,adaeze62@yahoo.com
+C1177,Delta Adeyemi & Associates,0811 8401946,Sapele,R07,Nigeria,Corporate,1262058,06-09-19,ngozi.adeyemi@company.ng
+C1102,Jumoke Tukur,08156104247,Wudil,R10,Nigeria,Wholesale,1870489,21-12-22,j.tukur@outlook.com
+C1039,Rukayat Ringim,08182567810,Bichi,R10,Nigeria,Retail,1620789,25-02-19,r.ringim@outlook.com
+C0954,Chinedu Suleiman,08034507680,Oji River,R04,Nigeria,Retail,660209,23-02-18,chinedu.suleiman@company.ng
+C0373,Sochima Yusuf,0807 3571504,Nsukka,R04,Nigeria,Retail,3536913,18-09-19,s.yusuf@outlook.com
+C0988,Adaeze Ihejirika,08152218557,Osogbo,R03,Nigeria,Wholesale,2973338,01-05-23,adaeze.ihejirika@company.ng
+C0330,Amina Lawal,08025387989,Nsukka,R04,Nigeria,Retail,2302832,02-11-18,a.lawal@outlook.com
+C0810,Ramatu Ezeani,08084018088,Gwagwalada,R08,Nigeria,Retail,984082,29-01-21,r.ezeani@outlook.com
+C0825,Hauwa Ezeani,08072653951,Port Harcourt,R06,Nigeria,Retail,469889,03-08-19,hauwa.ezeani@company.ng
+C0163,Yahaya Funtua,0816 3846484,Gwoza,R12,Nigeria,Retail,1547659,07-10-18,yahaya4@yahoo.com
+C0399,Tochukwu Umar,08159771831,Kafanchan,R11,Nigeria,Retail,3041219,16-09-18,t.umar@outlook.com
+C0047,Fatima Bello,08063396168,Biu,R12,Nigeria,Wholesale,4482087,26-08-20,Invalid Email
+C0142,Apex Obi Resources Ltd,08135065289,Ekwulobia,R05,Nigeria,Corporate,3668128,15-10-20,nnamdi23@yahoo.com
+C0118,Ebuka Makarfi,08125143718,Biu,R12,Nigeria,Wholesale,4458120,22-03-20,ebuka.makarfi@gmail.com
+C1169,Ebuka Nwachukwu,08151375746,Oji River,R04,Nigeria,Retail,1604667,17-02-22,ebuka83@yahoo.com
+C1163,Kano Okonkwu Resources Ltd,0809 8136683,Gombe,R13,Nigeria,Corporate,1740039,25-05-23,titilayo.okonkwu@company.ng
+C0109,Premier Nwosu Nigeria Ltd,0816 1857834,Gwagwalada,R08,Nigeria,Corporate,2475861,07-06-21,blessing.nwosu@company.ng
+C0216,Khadijah Obi,08064189936,Biu,R12,Nigeria,Retail,1334177,13-06-20,khadijah.obi@gmail.com
+C0749,Amarachi Onyekachi,0818 5154543,Abuja,R08,Nigeria,SME,499685,12-03-21,amarachi.onyekachi@company.ng
+C0158,Hauwa Ibrahim,0801 7220581,Rano,R10,Nigeria,Wholesale,1160054,16-11-21,h.ibrahim@outlook.com
+C0548,Safiya Abubakar,08194622918,Rano,R10,Nigeria,Wholesale,818792,07-10-21,Invalid Email
+C0684,Olamide Ihejirika,08114672152,Asaba,R07,Nigeria,Wholesale,4130982,19-01-20,olamide.ihejirika@gmail.com
+C0502,Obinna Ihejirika,0808 7722930,Port Harcourt,R06,Nigeria,Retail,1430980,26-04-22,obinna.ihejirika@company.ng
+C1149,Ikechukwu Dikko,08076021207,Obio-Akpor,R06,Nigeria,Wholesale,3938857,02-07-18,i.dikko@outlook.com
+C0042,Onyeka Bello,08093378049,Abeokuta,R02,Nigeria,Retail,4991223,15-11-20,o.bello@outlook.com
+C0799,Hauwa Okonkwo,08014955401,Kuje,R08,Nigeria,Retail,2383982,08-02-20,hauwa.okonkwo@gmail.com
+C0576,Aisha Osei,08135798013,Obio-Akpor,R06,Nigeria,Retail,510356,15-05-20,a.osei@outlook.com
+C0879,Horizon Dikko Global Ventures,0817 6111018,Gombe,R13,Nigeria,Corporate,4510685,20-02-22,blessing.dikko@gmail.com
+C1145,Modupe Okonkwu,08193621796,Gombe,R13,Nigeria,SME,1848303,04-01-18,modupe.okonkwu@gmail.com
+C0249,Gateway Mbah Group,08187578723,Enugu,R04,Nigeria,Corporate,4133307,14-02-22,m.mbah@outlook.com
+C1015,Yetunde Adeyemi,08163544134,Gombe,R13,Nigeria,Wholesale,621596,21-12-19,yetunde8@yahoo.com
+C0647,Lawal Bello,0810 7210546,Ibadan,R03,Nigeria,Wholesale,2182621,30-08-20,l.bello@outlook.com
+C0677,Funmilayo Ugwu,0802 9577208,Apapa,R01,Nigeria,Wholesale,4966592,15-05-20,f.ugwu@outlook.com
+C0980,Chinedu Onyekachi,08158014142,Abeokuta,R02,Nigeria,Wholesale,2833067,30-06-20,chinedu.onyekachi@gmail.com
+C0862,Adeola Ezeani,08058383934,Apapa,R01,Nigeria,SME,4218077,18-03-21,adeola.ezeani@company.ng
+C0455,Modupe Chibueze,08086805437,Surulere,R01,Nigeria,Retail,2326407,19-04-19,modupe16@yahoo.com
+C0814,Adaeze Agbo,08166231504,Kaltungo,R13,Nigeria,Wholesale,4007997,30-06-18,a.agbo@outlook.com
+C0808,Horizon Nwankwo Trading Co.,08072481848,Oji River,R04,Nigeria,Corporate,4937896,09-08-18,adeola.nwankwo@company.ng
+C0357,Nkechi Okafor,08079675503,Dukku,R13,Nigeria,Wholesale,4263896,18-04-23,n.okafor@outlook.com
+C0430,Yewande Ezeani,08112672776,Lokoja,R09,Nigeria,Retail,337371,16-09-19,yewande.ezeani@company.ng
+C0680,Fatima Adeyemi,08181419929,Port Harcourt,R06,Nigeria,SME,2926517,01-08-22,f.adeyemi@outlook.com
+C0075,Safiya Lawal,0817 4978793,Ikeja,R01,Nigeria,Retail,2562020,01-03-18,safiya.lawal@gmail.com
+C0514,Apex Obiechina Group,08097845914,Kaduna,R11,Nigeria,Corporate,3404843,07-10-22,amarachi.obiechina@company.ng
+C0539,Sochima Okeke,0801 5953649,Dukku,R13,Nigeria,Retail,241869,25-03-18,sochima.okeke@gmail.com
+C1166,Folake Umar,0807 5237529,Sagamu,R02,Nigeria,Retail,3873014,16-09-19,folake82@yahoo.com
+C0764,Lawal Suleiman,08182813352,Ikeja,R01,Nigeria,Wholesale,2628251,14-06-21,lawal13@yahoo.com
+C0263,Onyeka Ibrahim,0813 5110821,Kano,R10,Nigeria,Wholesale,1633278,25-10-21,onyeka74@yahoo.com
+C0149,Abuja Babangida Enterprises,08127308391,Eleme,R06,Nigeria,Corporate,4412639,23-01-20,ramatu.babangida@gmail.com
+C0190,Greenfield Yusuf Nigeria Ltd,08102749489,Port Harcourt,R06,Nigeria,Corporate,2007839,30-05-19,maryam.yusuf@gmail.com
+C0097,Pronigeria Chibueze Integrated Services,08159467863,Gwagwalada,R08,Nigeria,Corporate,2262727,12-09-19,yetunde.chibueze@gmail.com
+C0275,Fatima Kankara,Unknown,Enugu,R04,Nigeria,Retail,2990189,22-01-18,fatima.kankara@gmail.com
+C0990,Rukayat Nzeka,08137744977,Zaria,R11,Nigeria,Retail,4797808,01-02-22,rukayat.nzeka@gmail.com
+C0596,Sunrise Kankara Global Ventures,0811 6118448,Awka,R05,Nigeria,Corporate,1518825,08-12-18,lawal.kankara@company.ng
+C0955,Unity Ringim Trading Co.,08016469899,Zaria,R11,Nigeria,Corporate,461190,07-04-18,a.ringim@outlook.com
+C0998,Peak Tukur Integrated Services,08021591711,Kafanchan,R11,Nigeria,Corporate,1157519,20-02-19,Invalid Email
+C0778,Yetunde Waziri,08069906517,Abeokuta,R02,Nigeria,Retail,3685553,19-02-20,yetunde.waziri@company.ng
+C0254,Chinonso Dikko,08086140213,Lugbe,R08,Nigeria,Retail,2604285,06-05-19,c.dikko@outlook.com
+C0534,Blessing Ezeani,08171192223,Kaduna,R11,Nigeria,Retail,540437,12-11-20,blessing20@yahoo.com
+C1154,Onyeka Ringim,0811 3155226,Rano,R10,Nigeria,SME,2779681,06-01-19,o.ringim@outlook.com
+C0928,Jumoke Okonkwo,0801 5230810,Gwoza,R12,Nigeria,Wholesale,1077733,09-11-19,jumoke.okonkwo@gmail.com
+C1197,Jumoke Okafor,08121509268,Ijebu-Ode,R02,Nigeria,Wholesale,4189064,23-01-23,j.okafor@outlook.com
+C0962,Nnamdi Eze,08071093941,Bonny,R06,Nigeria,Wholesale,829134,20-06-18,nnamdi67@yahoo.com
+C0104,Sunrise Abubakar Enterprises,08111351314,Bonny,R06,Nigeria,Corporate,4083256,01-03-20,e.abubakar@outlook.com
+C0218,Ramat Okafor,08149144310,Lekki,R01,Nigeria,Retail,3868741,16-04-23,ramat39@yahoo.com
+C0572,Peak Chibueze Resources Ltd,08179495056,Apapa,R01,Nigeria,Corporate,2099935,06-08-20,ejike26@yahoo.com
+C0937,Chidi Tukur,08143873192,Lagos,R01,Nigeria,Wholesale,2848020,01-04-18,Invalid Email
+C1158,Chioma Kankara,08026023386,Sagamu,R02,Nigeria,Retail,3588209,30-07-22,chioma.kankara@gmail.com
+C1035,Amina Babangida,08121162108,Ogbomoso,R03,Nigeria,Wholesale,4808676,16-03-22,amina.babangida@company.ng
+C1084,Rukayat Okonkwu,0812 4632793,Kafanchan,R11,Nigeria,SME,2229869,25-08-22,rukayat.okonkwu@company.ng
+C1046,Bilkisu Garba,08059959009,Dukku,R13,Nigeria,SME,2157845,02-03-18,b.garba@outlook.com
+C0683,Adewale Gwarzo,08073966636,Kabba,R09,Nigeria,Retail,1405520,28-07-22,adewale.gwarzo@company.ng
+C0252,Taiwo Babangida,0817 6672087,Eleme,R06,Nigeria,Wholesale,3627591,07-04-22,taiwo.babangida@gmail.com
+C0286,Oluwaseun Waziri,08057269026,Zaria,R11,Nigeria,SME,441414,06-06-21,oluwaseun74@yahoo.com
+C0773,Adaeze Kankara,08179144432,Kaduna,R11,Nigeria,Unknown Segment,3385488,14-10-22,adaeze39@yahoo.com
+C0029,Greenfield Funtua Nigeria Ltd,08095120422,Oji River,R04,Nigeria,Corporate,1746183,10-02-23,ikechukwu.funtua@gmail.com
+C0385,Adewale Onuoha,0808 5611087,Eleme,R06,Nigeria,Wholesale,3323204,01-12-21,adewale78@yahoo.com
+C0995,Kenechukwu Ihejirika,0810 6748323,Agbor,R07,Nigeria,Retail,179848,03-12-18,kenechukwu.ihejirika@company.ng
+C0977,Khadijah Adeyemi,08103954126,Onitsha,R05,Nigeria,Retail,4299215,23-03-22,khadijah21@yahoo.com
+C1200,Nnamdi Hassan,08085881492,Kabba,R09,Nigeria,Retail,951554,06-03-21,Invalid Email
+C0091,Oluwaseun Onuoha,08134145854,Ibadan,R03,Nigeria,Wholesale,852858,11-07-21,oluwaseun.onuoha@gmail.com
+C0055,Uchenna Ihejirika,08134407713,Wudil,R10,Nigeria,Wholesale,2267659,12-01-21,uchenna.ihejirika@company.ng
+C0599,Gateway Ringim Resources Ltd,0808 2931685,Rano,R10,Nigeria,Corporate,2683506,20-06-18,amina.ringim@gmail.com
+C0270,Emeka Onyekachi,08109516423,Lokoja,R09,Nigeria,Retail,4617528,19-01-21,emeka27@yahoo.com
+C0941,Halima Danladi,0819 5395400,Onitsha,R05,Nigeria,Retail,1725161,30-11-19,halima.danladi@company.ng
+C0857,Adaeze Ibrahim,08164931362,Bichi,R10,Nigeria,Retail,3632431,17-10-18,adaeze.ibrahim@gmail.com
+C0482,Babatunde Ringim,0819 1417681,Bonny,R06,Nigeria,Retail,4612872,07-01-21,babatunde9@yahoo.com
+C0260,Halima Ihejirika,0806 2781597,Kuje,R08,Nigeria,Retail,859391,25-04-19,halima.ihejirika@company.ng
+C1049,Abdullahi Anyanwu,0807 3055067,Bichi,R10,Nigeria,Retail,1904878,15-06-19,a.anyanwu@outlook.com
+C0525,Mariam Okonkwu,08017351667,Ibadan,R03,Nigeria,Retail,4332007,05-07-19,mariam.okonkwu@company.ng
+C0023,Halima Kankara,08038897422,Kaduna,R11,Nigeria,Retail,1980037,03-02-20,halima.kankara@company.ng
+C0667,Blessing Umar,Unknown,Oji River,R04,Nigeria,Wholesale,3819457,27-05-20,b.umar@outlook.com
+C0401,Mariam Onyekachi,08187561393,Gwagwalada,R08,Nigeria,SME,65006,28-03-20,m.onyekachi@outlook.com
+C0016,Emeka Okonkwo,08019520304,Oji River,R04,Nigeria,Retail,1181513,22-09-21,emeka.okonkwo@company.ng
+C0337,Horizon Abubakar Group,08146612773,Kuje,R08,Nigeria,Corporate,276677,13-02-23,folake.abubakar@company.ng
+C0801,Horizon Onyekachi Global Ventures,08195058248,Maiduguri,R12,Nigeria,Corporate,3600051,04-10-21,gbemisola.onyekachi@gmail.com
+C0628,Unity Okafor Resources Ltd,08033404263,Kaltungo,R13,Nigeria,Corporate,204887,25-11-20,o.okafor@outlook.com
+C1136,Horizon Onuoha & Associates,08182288271,Warri,R07,Nigeria,Corporate,715070,11-07-22,titilayo10@yahoo.com
+C0426,Blessing Dikko,0814 5424575,Abuja,R08,Nigeria,Wholesale,2704789,05-03-20,blessing.dikko@gmail.com
+C0315,Ikechukwu Umar,08121479442,Bonny,R06,Nigeria,Retail,4894538,11-08-20,ikechukwu.umar@company.ng
+C0535,Safiya Chibueze,08096394423,Ikeja,R01,Nigeria,Retail,1645839,03-01-23,safiya.chibueze@gmail.com
+C0915,Blessing Ringim,0802 4471669,Gwoza,R12,Nigeria,Wholesale,464317,07-09-19,b.ringim@outlook.com
+C0377,Sunrise Musa Nigeria Ltd,08072865038,Ibadan,R03,Nigeria,Corporate,176927,18-01-22,chinedu66@yahoo.com
+C0678,Olamide Ringim,08138321948,Kuje,R08,Nigeria,Retail,4660359,07-11-22,o.ringim@outlook.com
+C0092,Amina Okoro,08087963805,Biu,R12,Nigeria,SME,4715058,06-06-22,amina80@yahoo.com
+C0573,Chibuzor Kankara,08117371729,Kafanchan,R11,Nigeria,Wholesale,2276698,24-10-18,chibuzor19@yahoo.com
+C0215,Unknown Customer,0809 8353322,Surulere,R01,Nigeria,Retail,4468177,14-03-22,i.ibrahim@outlook.com
+C1010,Yewande Nzeka,08029591248,Oji River,R04,Nigeria,Retail,430163,01-03-21,yewande.nzeka@company.ng
+C0604,Chukwuemeka Ugwu,0802 9058321,Nsukka,R04,Nigeria,Wholesale,1019698,29-09-22,chukwuemeka.ugwu@company.ng
+C0479,Chukwuemeka Umar,0807 3327243,Nnewi,R05,Nigeria,Retail,3585296,15-12-20,c.umar@outlook.com
+C1143,Taiwo Obiechina,08137133640,Gwoza,R12,Nigeria,Retail,4538984,03-01-19,taiwo.obiechina@company.ng
+C0758,Maryam Anozie,0801 2764333,Enugu,R04,Nigeria,Retail,3987737,06-05-20,maryam.anozie@gmail.com
+C0123,Ezinne Obiora,0813 7694452,Apapa,R01,Nigeria,Wholesale,4763878,06-02-22,ezinne.obiora@gmail.com
+C0741,Premier Suleiman Trading Co.,08107875789,Abuja,R08,Nigeria,Corporate,3175633,28-02-20,folake.suleiman@company.ng
+C1068,Yewande Hassan,08013375656,Ikeja,R01,Nigeria,Wholesale,836451,09-11-20,yewande88@yahoo.com
+C1131,Tochukwu Okoro,08147252651,Oji River,R04,Nigeria,Retail,3394141,25-10-19,tochukwu72@yahoo.com
+C0909,Ifeanyi Abubakar,08118222130,Lekki,R01,Nigeria,Wholesale,2647646,28-08-20,ifeanyi.abubakar@company.ng
+C0057,Folake Umar,08133519712,Zaria,R11,Nigeria,Unknown Segment,1760486,11-11-19,folake.umar@company.ng
+C0258,Taiwo Aliyu,08186684039,Lagos,R01,Nigeria,Wholesale,2052519,02-03-21,Invalid Email
+C0490,Lagos Obiora & Sons,08185255327,Abuja,R08,Nigeria,Corporate,1575464,17-09-19,somtochukwu5@yahoo.com
+C0434,Mariam Shehu,08094412838,Kafanchan,R11,Nigeria,Wholesale,4031775,14-12-20,m.shehu@outlook.com
+C0319,Taiwo Aliyu,0802 5885151,Ikeja,R01,Nigeria,Retail,1525618,28-01-19,taiwo.aliyu@gmail.com
+C0532,Titilayo Anozie,0806 7381372,Bichi,R10,Nigeria,Unknown Segment,641828,13-01-21,titilayo.anozie@gmail.com
+C0521,Abuja Anozie Global Ventures,08185117877,Lugbe,R08,Nigeria,Corporate,4059752,20-10-19,yewande82@yahoo.com
+C1146,Adeola Ezeani,08193206110,Wudil,R10,Nigeria,Retail,777475,09-03-18,adeola.ezeani@gmail.com
+C0708,Ifeanyi Ihejirika,0814 6510068,Biu,R12,Nigeria,Retail,72203,29-07-21,ifeanyi.ihejirika@gmail.com
+C0242,Halima Yusuf,08065972347,Onitsha,R05,Nigeria,Retail,587516,10-08-20,halima.yusuf@gmail.com
+C0723,Chukwuemeka Umar,08121083324,Eleme,R06,Nigeria,Wholesale,4566816,27-11-18,chukwuemeka.umar@gmail.com
+C0848,Lawal Okonkwo,08182522968,Dukku,R13,Nigeria,Retail,4857281,05-12-21,lawal.okonkwo@company.ng
+C0112,Chukwuemeka Okoro,08024321515,Sagamu,R02,Nigeria,Wholesale,1479288,31-08-19,chukwuemeka.okoro@gmail.com
+C0505,Sunrise Dikko Nigeria Ltd,08117487862,Lugbe,R08,Nigeria,Corporate,3997340,09-07-22,olamide.dikko@company.ng
+C0924,Khadijah Obiora,08181999969,Lekki,R01,Nigeria,Retail,1899490,22-10-20,khadijah.obiora@company.ng
+C0715,Blessing Lawal,08117707052,Obio-Akpor,R06,Nigeria,Wholesale,2546713,02-05-23,b.lawal@outlook.com
+C0043,Uchenna Garba,0801 4146503,Kano,R10,Nigeria,Wholesale,833064,30-11-20,uchenna.garba@gmail.com
+C0051,Niger Tukur Resources Ltd,08184640162,Kabba,R09,Nigeria,Corporate,383756,01-05-22,amarachi.tukur@gmail.com
+C1172,Gbemisola Eze,0819 4598205,Ekwulobia,R05,Nigeria,Wholesale,1345261,07-03-23,g.eze@outlook.com
+C1174,Ejike Okonkwu,0813 4764309,Okene,R09,Nigeria,Wholesale,1388478,04-06-22,ejike74@yahoo.com
+C0312,Amarachi Onyekachi,08082701761,Kaduna,R11,Nigeria,Retail,1989729,17-04-19,Invalid Email
+C0672,Khadijah Onyekachi,08172463127,Oji River,R04,Nigeria,Retail,2075910,29-04-22,khadijah.onyekachi@company.ng
+C0608,Rukayat Abubakar,0815 3602458,Gwagwalada,R08,Nigeria,Wholesale,608222,15-04-19,rukayat.abubakar@company.ng
+C0429,Chinonso Nwankwo,08112327158,Asaba,R07,Nigeria,Retail,3567634,21-11-20,chinonso.nwankwo@gmail.com
+C1045,Amarachi Garba,0815 2715685,Ijebu-Ode,R02,Nigeria,Wholesale,2976546,25-05-22,a.garba@outlook.com
+C0287,Sochima Okonkwu,08066304366,Gombe,R13,Nigeria,Wholesale,4852073,08-05-21,sochima93@yahoo.com
+C0078,Modupe Ringim,0810 4583873,Nsukka,R04,Nigeria,Wholesale,2221418,09-01-20,m.ringim@outlook.com
+C0551,Onyeka Nwosu,08175180205,Biu,R12,Nigeria,Retail,1157615,03-03-19,o.nwosu@outlook.com
+C0471,Nkechi Onyekachi,08196125536,Dukku,R13,Nigeria,Retail,4907244,13-01-22,nkechi11@yahoo.com
+C1062,Bilkisu Okonkwo,0816 1358662,Surulere,R01,Nigeria,Wholesale,1575228,11-04-21,b.okonkwo@outlook.com
+C0463,Chukwuemeka Shehu,08163482147,Ibadan,R03,Nigeria,Wholesale,3331259,09-07-18,c.shehu@outlook.com
+C0689,Gateway Obi Resources Ltd,08103190970,Abuja,R08,Nigeria,Corporate,3572059,12-03-20,khadijah.obi@gmail.com
+C0167,Eko Babangida Resources Ltd,0814 2766379,Eleme,R06,Nigeria,Corporate,2970095,12-03-19,uchenna.babangida@gmail.com
+C0152,Chinedu Mbah,08192122088,Kuje,R08,Nigeria,Retail,441564,01-03-23,Invalid Email
+C0897,Horizon Yusuf Trading Co.,08156281804,Lugbe,R08,Nigeria,Corporate,3734818,01-07-21,fatima.yusuf@company.ng
+C0607,Uchenna Gwarzo,0811 7205964,Apapa,R01,Nigeria,Retail,3655914,18-09-19,uchenna89@yahoo.com
+C0259,Khadijah Lawal,08024562927,Wudil,R10,Nigeria,Retail,977988,13-12-18,k.lawal@outlook.com
+C0833,Aisha Babangida,08109590399,Okene,R09,Nigeria,Retail,381013,24-04-21,a.babangida@outlook.com
+C0501,Sunrise Hassan Nigeria Ltd,08084457140,Oyo,R03,Nigeria,Corporate,3259303,24-07-21,Invalid Email
+C0103,Kenechukwu Ugwu,08097750652,Lokoja,R09,Nigeria,Wholesale,4524897,04-03-23,kenechukwu.ugwu@gmail.com
+C0940,Taiwo Aliyu,0816 6297437,Kafanchan,R11,Nigeria,Wholesale,4899323,03-10-20,taiwo.aliyu@company.ng
+C0222,Greenfield Ugwu & Sons,08186941935,Ijebu-Ode,R02,Nigeria,Corporate,1787016,18-02-21,k.ugwu@outlook.com
+C0238,Sochima Hassan,08018596279,Ibadan,R03,Nigeria,Wholesale,4079712,05-09-23,s.hassan@outlook.com
+C1044,Chioma Hassan,0807 4824895,Kuje,R08,Nigeria,Wholesale,1685005,29-12-20,chioma30@yahoo.com
+C0948,Ebuka Danladi,0810 9401367,Maiduguri,R12,Nigeria,Retail,163543,30-09-19,ebuka.danladi@gmail.com
+C0294,Bilkisu Danladi,0815 2508581,Gwagwalada,R08,Nigeria,Wholesale,2115705,07-05-22,bilkisu83@yahoo.com
+C0578,Halima Ugwu,08153606386,Enugu,R04,Nigeria,Retail,1088220,21-02-21,halima50@yahoo.com
+C0492,Zainab Musa,0805 7385436,Ijebu-Ode,R02,Nigeria,Retail,3435914,11-09-18,zainab45@yahoo.com
+C0454,Emeka Okoro,0816 3257603,Oji River,R04,Nigeria,Retail,4198251,02-07-19,emeka.okoro@company.ng
+C0949,Aisha Garba,08014361669,Kabba,R09,Nigeria,Retail,879514,21-06-22,aisha.garba@company.ng
+C0099,Chukwuemeka Nwachukwu,08182393704,Kaltungo,R13,Nigeria,Wholesale,4553330,20-12-22,chukwuemeka.nwachukwu@company.ng
+C0128,Lawal Obi,08167878452,Ibadan,R03,Nigeria,Retail,2978003,22-01-18,lawal.obi@gmail.com
+C0450,Ikechukwu Abdullahi,08185138612,Sagamu,R02,Nigeria,Retail,676046,30-06-21,i.abdullahi@outlook.com
+C1012,Peak Onuoha & Associates,08128577028,Ogbomoso,R03,Nigeria,Corporate,3665669,29-11-21,a.onuoha@outlook.com
+C0755,Peak Nzeka Global Ventures,08022671360,Dukku,R13,Nigeria,Corporate,1046466,16-07-19,fatima.nzeka@company.ng
+C0177,Onyeka Okonkwu,08194582798,Lokoja,R09,Nigeria,Retail,4379050,20-03-23,o.okonkwu@outlook.com
+C0257,Ezinne Osei,08184733082,Ibadan,R03,Nigeria,Retail,1368905,31-05-23,ezinne75@yahoo.com
+C0131,Eko Lawal Enterprises,0802 4504048,Okene,R09,Nigeria,Corporate,3327337,12-05-21,abdullahi.lawal@gmail.com
+C0151,Peak Danladi Nigeria Ltd,08064835750,Lagos,R01,Nigeria,Corporate,806405,26-07-18,ifeanyi.danladi@company.ng
+C1153,Adaeze Babangida,08197033011,Maiduguri,R12,Nigeria,Wholesale,923321,03-06-20,adaeze.babangida@gmail.com
+C0682,Safiya Nwosu,Unknown,Port Harcourt,R06,Nigeria,Retail,79804,25-12-22,safiya.nwosu@company.ng
+C0135,Chibuzor Shehu,0813 6147982,Kafanchan,R11,Nigeria,Wholesale,1311495,17-12-18,chibuzor34@yahoo.com
+C0754,Eko Musa Nigeria Ltd,0814 5559258,Abeokuta,R02,Nigeria,Corporate,4772770,11-04-19,chukwuemeka44@yahoo.com
+C0352,Bilkisu Gwarzo,08124968108,Dukku,R13,Nigeria,Retail,3046011,15-10-18,b.gwarzo@outlook.com
+C0697,Uche Okafor,08033430436,Lugbe,R08,Nigeria,Wholesale,1938310,15-03-23,uche7@yahoo.com
+C0059,Lagos Okafor Enterprises,08053595777,Agbor,R07,Nigeria,Corporate,3711975,28-03-20,d.okafor@outlook.com
+C0065,Amina Chukwu,08188032000,Kabba,R09,Nigeria,Retail,2050274,15-05-19,amina.chukwu@gmail.com
+C0107,Uche Abubakar,08088346549,Kabba,R09,Nigeria,SME,101513,23-09-21,uche.abubakar@gmail.com
+C0191,Nnamdi Mbah,08068271434,Kafanchan,R11,Nigeria,Retail,1662620,14-02-20,nnamdi38@yahoo.com
+C0691,Somtochukwu Kankara,08139138686,Obio-Akpor,R06,Nigeria,Retail,2706960,21-09-18,s.kankara@outlook.com
+C0172,Fatima Onyekachi,0802 6237862,Bonny,R06,Nigeria,Retail,3828478,27-06-20,fatima71@yahoo.com
+C0008,Rukayat Kwankwaso,08011328688,Ekwulobia,R05,Nigeria,Retail,3489496,25-11-19,rukayat.kwankwaso@gmail.com
+C1110,Apex Ugwu Integrated Services,08084817295,Kafanchan,R11,Nigeria,Corporate,3510817,15-11-19,bilkisu91@yahoo.com
+C0601,Nnamdi Abdullahi,08104045893,Lagos,R01,Nigeria,Retail,4400846,13-12-18,nnamdi.abdullahi@gmail.com
+C0096,Halima Okeke,08035768578,Nsukka,R04,Nigeria,Retail,1389943,09-10-21,halima.okeke@gmail.com
+C0878,Horizon Agbo Nigeria Ltd,08121395142,Kabba,R09,Nigeria,Corporate,4165693,21-04-23,yetunde.agbo@company.ng
+C1043,Ramatu Garba,08199222943,Ijebu-Ode,R02,Nigeria,Retail,2831852,10-06-21,Invalid Email
+C0298,Premier Ibrahim Group,08077142631,Biu,R12,Nigeria,Corporate,1805141,10-06-19,ebuka.ibrahim@company.ng
+C0868,Tochukwu Babangida,08173097263,Oji River,R04,Nigeria,Retail,3901696,15-01-22,tochukwu.babangida@gmail.com
+C0117,Folake Okafor,08098259777,Port Harcourt,R06,Nigeria,Retail,1884112,03-03-19,folake.okafor@company.ng
+C0159,Yewande Umar,08071310572,Ibadan,R03,Nigeria,Retail,2784537,02-06-22,yewande41@yahoo.com
+C1091,Gbemisola Ezeani,0805 6837282,Eleme,R06,Nigeria,Retail,3914784,10-11-18,gbemisola.ezeani@company.ng
+C0187,Kenechukwu Nzeka,08056124784,Oji River,R04,Nigeria,Retail,2991869,24-02-23,Invalid Email
+C0831,Ebuka Anozie,08052493412,Kafanchan,R11,Nigeria,Wholesale,4333465,02-04-23,ebuka.anozie@company.ng
+C0422,Ezinne Nzeka,08101973570,Gombe,R13,Nigeria,SME,1175085,22-04-20,ezinne97@yahoo.com
+C0299,Babatunde Okonkwu,0802 3448400,Kabba,R09,Nigeria,Retail,2202550,02-06-18,Invalid Email
+C0318,Fatima Adeyemi,08093247042,Eleme,R06,Nigeria,Retail,4400219,19-06-23,fatima.adeyemi@gmail.com
+C0323,Taiwo Okafor,08038853290,Kaltungo,R13,Nigeria,Wholesale,3527910,03-09-22,taiwo.okafor@gmail.com
+C0686,Chibuzor Chibueze,08113955984,Maiduguri,R12,Nigeria,Retail,2025081,13-04-18,chibuzor.chibueze@company.ng
+C0392,Unknown Customer,08183504173,Obio-Akpor,R06,Nigeria,Wholesale,3852724,07-03-22,c.okonkwu@outlook.com
+C1196,Ramat Nwosu,0812 4290512,Obio-Akpor,R06,Nigeria,Retail,1026594,16-12-18,Invalid Email
+C0616,Jumoke Ibrahim,08145755146,Lagos,R01,Nigeria,Retail,1532535,05-08-21,jumoke.ibrahim@company.ng
+C0731,Mariam Okonkwu,Unknown,Kaduna,R11,Nigeria,Wholesale,4551723,23-07-21,mariam.okonkwu@company.ng
+C0094,Yewande Nzeka,08154962731,Apapa,R01,Nigeria,Retail,1185083,23-12-18,yewande.nzeka@gmail.com
+C0475,Olumide Suleiman,08093211028,Onitsha,R05,Nigeria,Retail,4814673,21-01-19,olumide68@yahoo.com
+C0734,Babatunde Eze,08016701583,Nnewi,R05,Nigeria,Retail,822189,16-08-22,b.eze@outlook.com
+C0979,Aisha Obi,0817 4969557,Biu,R12,Nigeria,Retail,454474,12-07-18,aisha.obi@gmail.com
+C1156,Oluwaseun Okafor,08068688949,Kaduna,R11,Nigeria,Wholesale,1140113,31-05-19,oluwaseun36@yahoo.com
+C0425,Rukayat Obiechina,0815 3463212,Nsukka,R04,Nigeria,Retail,3244425,15-12-18,r.obiechina@outlook.com
+C0285,Chinedu Danladi,08112407235,Kabba,R09,Nigeria,Wholesale,2744792,09-11-21,c.danladi@outlook.com
+C0256,Halima Abdullahi,08134655568,Sapele,R07,Nigeria,SME,1988518,21-04-18,h.abdullahi@outlook.com
+C1188,Amina Osei,08168532981,Ijebu-Ode,R02,Nigeria,Retail,3031239,14-12-19,amina.osei@gmail.com
+C0382,Rukayat Umar,0809 5775217,Lagos,R01,Nigeria,Retail,1136757,27-11-20,rukayat.umar@company.ng
+C0232,Safiya Anyanwu,08074818578,Agbor,R07,Nigeria,Wholesale,1310036,05-06-21,safiya.anyanwu@company.ng
+C1129,Yahaya Onuoha,0801 7777544,Oji River,R04,Nigeria,Retail,1687468,04-06-20,yahaya.onuoha@gmail.com
+C1058,Jumoke Chibueze,0818 9480782,Gombe,R13,Nigeria,Wholesale,3744344,13-06-23,j.chibueze@outlook.com
+C0147,Damilola Funtua,08052480022,Zaria,R11,Nigeria,Wholesale,4429281,01-11-20,damilola78@yahoo.com
+C0906,Sochima Tukur,08015692216,Osogbo,R03,Nigeria,Wholesale,1360556,02-03-20,s.tukur@outlook.com
+C0244,Premier Okonkwu Enterprises,08102109587,Sagamu,R02,Nigeria,Corporate,4048115,24-06-22,yewande.okonkwu@gmail.com
+C0271,Yetunde Okafor,08055953012,Biu,R12,Nigeria,Retail,657215,05-05-18,yetunde.okafor@gmail.com
+C0297,Lagos Lawal Integrated Services,08183536709,Onitsha,R05,Nigeria,Corporate,288126,07-12-21,safiya32@yahoo.com
+C0626,Ebuka Anozie,08104596639,Kafanchan,R11,Nigeria,Wholesale,2256046,02-08-20,ebuka.anozie@company.ng
+C0500,Taiwo Lawal,0802 6572721,Kabba,R09,Nigeria,Wholesale,3482105,30-07-19,taiwo23@yahoo.com
+C0701,Unknown Customer,08107653530,Kabba,R09,Nigeria,Retail,2274419,24-10-18,g.ezeani@outlook.com
+C0424,Ekene Eze,0819 2132946,Nnewi,R05,Nigeria,Retail,1393619,16-09-18,ekene.eze@gmail.com
+C0120,Adewale Danladi,08039852992,Sapele,R07,Nigeria,Retail,537019,21-09-19,adewale.danladi@gmail.com
+C0427,Gateway Gwarzo Group,08123501319,Lekki,R01,Nigeria,Corporate,1581513,27-10-18,abdullahi.gwarzo@gmail.com
+C0509,Sochima Okeke,08117699186,Ogbomoso,R03,Nigeria,Wholesale,69630,03-03-22,s.okeke@outlook.com
+C0364,Olumide Abdullahi,08079031396,Biu,R12,Nigeria,Retail,3467474,27-10-19,olumide.abdullahi@gmail.com
+C0665,Techbase Okafor Global Ventures,0801 4760911,Awka,R05,Nigeria,Corporate,3173903,10-09-21,uche.okafor@company.ng
+C0310,Aisha Danladi,08018141200,Okene,R09,Nigeria,Retail,2990597,19-04-22,a.danladi@outlook.com
+C0360,Ebuka Anyanwu,08113251259,Lagos,R01,Nigeria,Retail,3384391,10-04-22,Invalid Email
+C0316,Aisha Dikko,08164228953,Gwagwalada,R08,Nigeria,SME,1109473,26-11-21,aisha.dikko@company.ng
+C0241,Obinna Funtua,0815 2703029,Ibadan,R03,Nigeria,Wholesale,762309,10-05-23,obinna.funtua@gmail.com
+C1185,Amina Osei,08089191226,Nsukka,R04,Nigeria,Wholesale,1996900,21-08-18,amina52@yahoo.com
+C0727,Babatunde Makarfi,08014557642,Onitsha,R05,Nigeria,Wholesale,1347230,17-09-19,babatunde.makarfi@gmail.com
+C0543,Taiwo Okonkwu,08038552994,Warri,R07,Nigeria,SME,3618405,21-03-18,taiwo.okonkwu@gmail.com
+C0776,Ramat Makarfi,08098110358,Kuje,R08,Nigeria,Retail,1241993,22-02-19,ramat.makarfi@gmail.com
+C0546,Ngozi Mbah,08058351900,Sapele,R07,Nigeria,Retail,992810,04-09-23,ngozi27@yahoo.com
+C0863,Mariam Okoro,08073797674,Osogbo,R03,Nigeria,Retail,4879889,12-09-21,mariam.okoro@gmail.com
+C0421,Ramat Ibrahim,08036345854,Apapa,R01,Nigeria,Wholesale,4846250,21-07-21,ramat.ibrahim@gmail.com
+C0374,Niger Hassan Global Ventures,08178778455,Ibadan,R03,Nigeria,Corporate,3530324,19-08-19,c.hassan@outlook.com
+C0461,Obinna Adeyemi,08136813697,Ijebu-Ode,R02,Nigeria,Retail,2865101,09-02-19,o.adeyemi@outlook.com
+C0344,Titilayo Suleiman,08073179486,Ogbomoso,R03,Nigeria,Retail,3297129,10-10-21,titilayo90@yahoo.com
+C0527,Safiya Okoro,08082892827,Sapele,R07,Nigeria,Retail,1744615,21-05-20,safiya.okoro@gmail.com
+C0858,Peak Nwosu Global Ventures,08156015590,Ibadan,R03,Nigeria,Corporate,2417249,07-04-22,Invalid Email
+C0695,Gateway Hassan Integrated Services,08028600440,Osogbo,R03,Nigeria,Corporate,402442,12-06-21,Invalid Email
+C1018,Uche Abubakar,08036139539,Okene,R09,Nigeria,Wholesale,230866,04-02-18,uche9@yahoo.com
+C1193,Adaeze Waziri,08179048876,Lekki,R01,Nigeria,Retail,4033116,17-09-20,a.waziri@outlook.com
+C0204,Modupe Gwarzo,08081160478,Osogbo,R03,Nigeria,Wholesale,4553100,18-02-18,m.gwarzo@outlook.com
+C0579,Unknown Customer,08165733207,Bichi,R10,Nigeria,Retail,1236747,23-03-23,onyeka97@yahoo.com
+C1038,Ngozi Garba,08104487341,Kaduna,R11,Nigeria,SME,2281537,03-11-21,ngozi.garba@gmail.com
+C0409,Somtochukwu Ugwu,0818 2954610,Surulere,R01,Nigeria,Retail,1178290,20-12-19,somtochukwu.ugwu@company.ng
+C0348,Unknown Customer,08107558117,Nsukka,R04,Nigeria,Wholesale,4045202,14-01-23,onyeka.umar@company.ng
+C0245,Delta Shehu Integrated Services,08196180078,Lagos,R01,Nigeria,Corporate,4878441,16-04-18,y.shehu@outlook.com
+C0786,Premier Nwachukwu Resources Ltd,08193461633,Ekwulobia,R05,Nigeria,Corporate,1656335,23-09-18,chukwuemeka.nwachukwu@gmail.com
+C1096,Ramatu Abubakar,08193821671,Kafanchan,R11,Nigeria,Wholesale,492728,19-04-23,ramatu22@yahoo.com
+C0702,Khadijah Gwarzo,08052679070,Biu,R12,Nigeria,Retail,1312134,21-10-21,Invalid Email
+C0740,Jumoke Nwosu,08126392722,Sapele,R07,Nigeria,Retail,4401241,26-12-18,j.nwosu@outlook.com
+C1121,Uche Anyanwu,0807 9842046,Maiduguri,R12,Nigeria,Wholesale,386962,31-10-18,uche.anyanwu@company.ng
+C0838,Ezinne Shehu,08084811495,Oji River,R04,Nigeria,SME,485605,03-06-19,ezinne.shehu@company.ng
+C0910,Horizon Osei Nigeria Ltd,08133748496,Gwoza,R12,Nigeria,Corporate,2785409,03-06-23,chukwuemeka.osei@company.ng
+C0970,Yewande Mbah,08058774863,Ikeja,R01,Nigeria,Retail,2200890,25-11-18,yewande83@yahoo.com
+C0739,Funmilayo Onuoha,0816 7238907,Eleme,R06,Nigeria,Retail,977824,03-10-21,funmilayo15@yahoo.com
+C0343,Amarachi Nzeka,0812 4299307,Sapele,R07,Nigeria,Retail,696928,29-09-18,amarachi86@yahoo.com
+C1189,Pronigeria Okafor Group,08108795031,Zaria,R11,Nigeria,Corporate,498686,04-04-22,ezinne20@yahoo.com
+C0413,Chidi Babangida,08183609190,Eleme,R06,Nigeria,Retail,3513998,31-07-20,chidi.babangida@gmail.com
+C0646,Olamide Nzeka,08077186532,Kano,R10,Nigeria,Retail,4183546,23-02-22,olamide63@yahoo.com
+C0129,Ramatu Hassan,Unknown,Rano,R10,Nigeria,Wholesale,3744277,05-12-21,r.hassan@outlook.com
+C0735,Blessing Onuoha,08175408515,Bichi,R10,Nigeria,SME,633850,14-01-20,blessing.onuoha@gmail.com
+C0453,Maryam Nwosu,08025346786,Oji River,R04,Nigeria,Retail,2812038,05-09-18,maryam.nwosu@company.ng
+C0219,Jumoke Gwarzo,08174730915,Ijebu-Ode,R02,Nigeria,Retail,3896493,15-01-22,jumoke.gwarzo@gmail.com
+C0144,Abdullahi Umar,08195984314,Abuja,R08,Nigeria,Wholesale,2431619,30-11-20,abdullahi47@yahoo.com
+C0554,Niger Agbo Enterprises,08063476930,Onitsha,R05,Nigeria,Corporate,3738363,14-12-19,r.agbo@outlook.com
+C0976,Ngozi Nwosu,0813 9553927,Lagos,R01,Nigeria,Wholesale,1377889,24-12-18,ngozi.nwosu@company.ng
+C0503,Techbase Ringim Group,08074376746,Zaria,R11,Nigeria,Corporate,1775883,05-11-20,zainab.ringim@gmail.com
+C0869,Chibuzor Ringim,08181402806,Sagamu,R02,Nigeria,Retail,159511,21-06-18,chibuzor.ringim@company.ng
+C0926,Maryam Ugwu,08131352733,Nsukka,R04,Nigeria,Retail,926149,22-11-21,maryam.ugwu@company.ng
+C1083,Emeka Makarfi,0807 8190395,Enugu,R04,Nigeria,Retail,2173533,15-12-21,emeka37@yahoo.com
+C0060,Pronigeria Nwosu Group,08053437983,Apapa,R01,Nigeria,Corporate,3211291,26-03-18,Invalid Email
+C0942,Ramat Osei,0808 9606471,Sapele,R07,Nigeria,Retail,3736111,01-11-21,ramat.osei@gmail.com
+C0792,Onyeka Ringim,08027900501,Awka,R05,Nigeria,Wholesale,3764407,13-02-21,onyeka.ringim@gmail.com
+C0281,Maryam Kwankwaso,08123211253,Sapele,R07,Nigeria,Wholesale,513829,20-02-21,maryam26@yahoo.com
+C0067,Funmilayo Obiora,0810 2625436,Asaba,R07,Nigeria,Wholesale,4156714,06-09-22,funmilayo.obiora@gmail.com
+C0338,Abdullahi Kankara,08024948147,Ibadan,R03,Nigeria,SME,4309718,09-08-20,a.kankara@outlook.com
+C0826,Niger Waziri Resources Ltd,08177355310,Surulere,R01,Nigeria,Corporate,4862259,17-04-22,oluwaseun55@yahoo.com
+C0939,Ngozi Ihejirika,08121446924,Bichi,R10,Nigeria,Retail,2536684,10-11-22,ngozi7@yahoo.com
+C0481,Kano Shehu Nigeria Ltd,08059463190,Zaria,R11,Nigeria,Corporate,307414,15-02-20,nkechi6@yahoo.com
+C0805,Ngozi Makarfi,08169111422,Ogbomoso,R03,Nigeria,SME,82242,03-12-23,n.makarfi@outlook.com
+C1028,Ramat Agbo,08195969316,Eleme,R06,Nigeria,Retail,1534267,09-08-22,ramat.agbo@gmail.com
+C0951,Safiya Ihejirika,08136888483,Rano,R10,Nigeria,Retail,326673,28-11-18,safiya.ihejirika@company.ng
+C0251,Niger Makarfi & Sons,08181247306,Eleme,R06,Nigeria,Corporate,781218,13-02-19,chidi.makarfi@gmail.com
+C0470,Unity Okeke Nigeria Ltd,0811 5523967,Nnewi,R05,Nigeria,Corporate,850564,29-09-19,o.okeke@outlook.com
+C0300,Nnamdi Ugwu,08053372424,Lekki,R01,Nigeria,Retail,2854450,18-02-18,nnamdi.ugwu@gmail.com
+C1030,Kenechukwu Ihejirika,08152663755,Kaduna,R11,Nigeria,Wholesale,966579,29-12-22,kenechukwu80@yahoo.com
+C1089,Ramatu Lawal,08057091274,Lagos,R01,Nigeria,Wholesale,453357,25-03-18,ramatu36@yahoo.com
+C0643,Folake Suleiman,08078689464,Apapa,R01,Nigeria,Retail,4088484,28-07-21,folake.suleiman@gmail.com
+C0483,Lagos Gwarzo & Sons,08092380003,Kafanchan,R11,Nigeria,Corporate,3949146,30-07-20,a.gwarzo@outlook.com
+C0730,Yahaya Abdullahi,08172402226,Okene,R09,Nigeria,Retail,4032722,29-08-19,y.abdullahi@outlook.com
+C0185,Ramat Nzeka,08182364887,Ekwulobia,R05,Nigeria,SME,4463804,08-04-23,ramat.nzeka@company.ng
+C0499,Oluwaseun Aliyu,0802 1314293,Obio-Akpor,R06,Nigeria,Retail,395672,06-01-18,oluwaseun.aliyu@company.ng
+C0389,Ngozi Ugwu,08128089776,Obio-Akpor,R06,Nigeria,SME,2852984,04-09-18,Invalid Email
+C0828,Techbase Ugwu Group,08165720200,Sagamu,R02,Nigeria,Corporate,373510,27-07-21,m.ugwu@outlook.com
+C0877,Blessing Umar,08078272044,Kabba,R09,Nigeria,Retail,2153515,02-10-22,blessing.umar@company.ng
+C0943,Babatunde Lawal,08056827205,Ibadan,R03,Nigeria,Retail,3003026,09-12-22,Invalid Email
+C0886,Niger Tukur Enterprises,08082924591,Ibadan,R03,Nigeria,Corporate,4216204,08-11-22,n.tukur@outlook.com
+C0052,Yetunde Obiora,0812 4274313,Dukku,R13,Nigeria,Wholesale,810157,02-01-18,yetunde33@yahoo.com
+C0456,Delta Lawal & Sons,0808 8598096,Enugu,R04,Nigeria,Corporate,2980428,24-09-20,ikechukwu.lawal@gmail.com
+C0498,Yahaya Abubakar,08029556003,Kaduna,R11,Nigeria,Retail,3386622,07-09-19,yahaya31@yahoo.com
+C0950,Olumide Ringim,08134531195,Oyo,R03,Nigeria,Retail,4258555,19-04-18,Invalid Email
+C0898,Nkechi Eze,0805 4857368,Gombe,R13,Nigeria,Retail,4301840,03-06-19,nkechi.eze@gmail.com
+C0938,Fatima Agbo,08155850825,Gwoza,R12,Nigeria,Retail,3530413,21-03-19,fatima.agbo@gmail.com
+C1118,Damilola Kankara,0819 6788259,Nsukka,R04,Nigeria,SME,409670,10-04-21,damilola96@yahoo.com
+C0095,Sochima Obiora,08143964300,Gwagwalada,R08,Nigeria,SME,2972164,17-03-23,s.obiora@outlook.com
+C0080,Khadijah Anyanwu,08198340272,Kabba,R09,Nigeria,Retail,561661,15-11-22,khadijah.anyanwu@company.ng
+C1159,Pronigeria Obiora & Sons,Unknown,Bonny,R06,Nigeria,Corporate,4138921,20-03-20,lawal.obiora@gmail.com
+C0804,Nkechi Nwankwo,08191646869,Ijebu-Ode,R02,Nigeria,Retail,1453006,09-11-21,nkechi.nwankwo@gmail.com
+C0892,Modupe Onyekachi,0809 1375248,Ijebu-Ode,R02,Nigeria,Retail,866520,17-12-22,modupe.onyekachi@company.ng
+C1007,Chidi Onuoha,08185914988,Asaba,R07,Nigeria,Retail,4407133,09-02-19,c.onuoha@outlook.com
+C0748,Fatima Obiechina,08194925304,Osogbo,R03,Nigeria,Unknown Segment,149390,07-10-21,fatima35@yahoo.com
+C0529,Kenechukwu Nwosu,08109328103,Oyo,R03,Nigeria,Wholesale,4372175,12-10-22,k.nwosu@outlook.com
+C0230,Abdullahi Nwachukwu,08011733571,Kabba,R09,Nigeria,Retail,3350066,15-05-19,abdullahi.nwachukwu@company.ng
+C1033,Amarachi Nwosu,08177914511,Nnewi,R05,Nigeria,Retail,2595806,08-03-19,amarachi.nwosu@gmail.com
+C0964,Bilkisu Nzeka,0811 9921159,Gombe,R13,Nigeria,Wholesale,1921617,21-02-23,Invalid Email
+C0171,Ebuka Mbah,08093730020,Biu,R12,Nigeria,Wholesale,2197605,10-07-20,ebuka44@yahoo.com
+C1114,Premier Umar Trading Co.,08136981996,Abeokuta,R02,Nigeria,Corporate,3421371,18-03-23,bilkisu.umar@company.ng
+C0460,Lagos Ihejirika Integrated Services,0802 2186016,Oji River,R04,Nigeria,Corporate,2086210,27-12-18,h.ihejirika@outlook.com
+C0639,Damilola Okonkwu,0819 3012996,Nnewi,R05,Nigeria,SME,732314,01-04-20,damilola96@yahoo.com
+C0173,Safiya Ibrahim,08102491149,Sapele,R07,Nigeria,Retail,2454029,25-04-23,s.ibrahim@outlook.com
+C0918,Chukwuemeka Chibueze,08086084656,Gwoza,R12,Nigeria,Retail,2497792,08-01-20,c.chibueze@outlook.com
+C0774,Gateway Adeyemi Nigeria Ltd,0810 9767072,Sagamu,R02,Nigeria,Corporate,453658,06-04-21,k.adeyemi@outlook.com
+C0603,Mariam Adeyemi,08101939854,Eleme,R06,Nigeria,Retail,2460077,03-03-19,mariam.adeyemi@gmail.com
+C0486,Oluwaseun Ibrahim,08133184938,Sagamu,R02,Nigeria,Retail,2856808,11-09-21,oluwaseun.ibrahim@gmail.com
+C0448,Lagos Okonkwo Trading Co.,Unknown,Wudil,R10,Nigeria,Corporate,3870995,14-02-23,khadijah.okonkwo@company.ng
+C0666,Lagos Abubakar Nigeria Ltd,0816 4451085,Okene,R09,Nigeria,Corporate,3351979,04-08-23,ezinne.abubakar@company.ng
+C0480,Eko Ugwu Global Ventures,0818 5081967,Zaria,R11,Nigeria,Corporate,4186182,24-10-20,ramatu23@yahoo.com
+C0517,Nkechi Umar,08112345437,Awka,R05,Nigeria,SME,600328,07-12-22,n.umar@outlook.com
+C0972,Damilola Abubakar,0819 3892120,Bichi,R10,Nigeria,Retail,4302846,28-11-22,damilola22@yahoo.com
+C0108,Zainab Dikko,08056685521,Lokoja,R09,Nigeria,Retail,2304702,13-08-18,zainab.dikko@company.ng
+C0648,Ezinne Ibrahim,08183885629,Warri,R07,Nigeria,Retail,3316553,11-06-22,ezinne.ibrahim@company.ng
+C0420,Ezinne Anozie,08022396064,Surulere,R01,Nigeria,Retail,4855497,29-12-20,ezinne.anozie@company.ng
+C0443,Halima Ibrahim,0809 4635557,Kabba,R09,Nigeria,Wholesale,1007616,27-10-18,halima62@yahoo.com
+C0638,Olamide Agbo,08054851970,Apapa,R01,Nigeria,Unknown Segment,4764181,30-05-18,olamide.agbo@company.ng
+C1170,Fatima Onuoha,08064913705,Lekki,R01,Nigeria,Retail,2082453,03-09-20,f.onuoha@outlook.com
+C1142,Khadijah Nzeka,08055529194,Maiduguri,R12,Nigeria,Retail,3975222,05-04-21,khadijah56@yahoo.com
+C0038,Zainab Hassan,Unknown,Kano,R10,Nigeria,Wholesale,1501431,15-09-20,z.hassan@outlook.com
+C0489,Uche Anozie,08079055934,Okene,R09,Nigeria,Retail,1023895,05-01-18,uche.anozie@gmail.com
+C0197,Mariam Ugwu,0812 6115631,Lugbe,R08,Nigeria,Wholesale,2073246,31-08-19,m.ugwu@outlook.com
+C0652,Oluwaseun Anozie,08016919450,Biu,R12,Nigeria,Retail,3539462,06-04-19,oluwaseun61@yahoo.com
+C0635,Maryam Babangida,08017074525,Kafanchan,R11,Nigeria,SME,2580076,08-03-20,m.babangida@outlook.com
+C0467,Mariam Hassan,0819 9782075,Okene,R09,Nigeria,SME,930020,16-09-21,Invalid Email
+C0336,Ejike Makarfi,08053464874,Dukku,R13,Nigeria,Retail,523759,15-01-21,ejike25@yahoo.com
+C1086,Maryam Agbo,08053107178,Kano,R10,Nigeria,Retail,2522380,08-08-19,Invalid Email
+C0138,Oluwaseun Nwachukwu,08171626021,Asaba,R07,Nigeria,Wholesale,4683648,11-12-21,oluwaseun47@yahoo.com
+C0398,Agrofirst Obiechina Ltd,0815 1542264,Nnewi,R05,Nigeria,Corporate,2483451,13-01-22,a.obiechina@outlook.com
+C1055,Kano Suleiman & Associates,08039263158,Zaria,R11,Nigeria,Corporate,1562722,02-11-22,chinedu.suleiman@company.ng
+C0087,Zainab Bello,08164384973,Onitsha,R05,Nigeria,Retail,445760,26-04-20,zainab.bello@gmail.com
+C0014,Kenechukwu Ihejirika,08076518103,Kaltungo,R13,Nigeria,Wholesale,2730697,02-03-18,Invalid Email
+C0528,Adewale Abdullahi,08066792795,Lokoja,R09,Nigeria,Wholesale,980710,04-07-18,Invalid Email
+C0885,Ramat Ugwu,08122912013,Gwoza,R12,Nigeria,Retail,102120,21-01-23,r.ugwu@outlook.com
+C1073,Yewande Kankara,0810 3225191,Biu,R12,Nigeria,Retail,2742372,02-07-23,yewande62@yahoo.com
+C0432,Greenfield Ihejirika & Associates,08148046974,Zaria,R11,Nigeria,Corporate,2973188,09-10-18,ngozi67@yahoo.com
+C0073,Lagos Ibrahim Global Ventures,08029069052,Ekwulobia,R05,Nigeria,Corporate,465716,04-05-21,oluwaseun.ibrahim@gmail.com
+C1199,Lagos Okoro Group,08137723918,Obio-Akpor,R06,Nigeria,Corporate,1651378,11-04-20,uchenna81@yahoo.com
+C0081,Ejike Musa,08136364177,Gombe,R13,Nigeria,Retail,3505577,06-04-19,ejike84@yahoo.com
+C0704,Pronigeria Obi & Sons,08097957090,Oji River,R04,Nigeria,Corporate,2474348,17-07-18,fatima.obi@gmail.com
+C0325,Onyeka Ibrahim,08108686861,Kafanchan,R11,Nigeria,Retail,1788219,23-02-21,onyeka.ibrahim@company.ng
+C0751,Khadijah Osei,0801 2051727,Dukku,R13,Nigeria,SME,756925,29-11-19,khadijah.osei@gmail.com
+C0523,Adeola Chukwu,08172720492,Enugu,R04,Nigeria,Retail,3081850,14-05-22,adeola62@yahoo.com
+C0920,Ifeanyi Garba,0819 7795805,Kabba,R09,Nigeria,Retail,399558,01-10-19,ifeanyi.garba@company.ng
+C0811,Yahaya Onyekachi,08193961135,Gombe,R13,Nigeria,Retail,560416,08-01-18,yahaya6@yahoo.com
+C1167,Chidi Kankara,08094040566,Lokoja,R09,Nigeria,Wholesale,3387854,03-09-21,c.kankara@outlook.com
+C0005,Ngozi Adeyemi,08031012461,Sagamu,R02,Nigeria,Retail,1525911,28-12-22,Invalid Email
+C0113,Chidi Eze,08077314704,Onitsha,R05,Nigeria,Retail,938046,01-05-22,chidi.eze@company.ng
+C0615,Ekene Tukur,08144314800,Gwoza,R12,Nigeria,Retail,2889483,24-02-18,ekene21@yahoo.com
+C1171,Ifeanyi Gwarzo,08131741743,Enugu,R04,Nigeria,Retail,665932,12-06-19,i.gwarzo@outlook.com
+C0335,Zainab Anyanwu,0808 6486106,Lekki,R01,Nigeria,Retail,4655427,11-07-21,zainab98@yahoo.com
+C0721,Uchenna Mbah,08079284479,Eleme,R06,Nigeria,Retail,1301775,02-01-20,u.mbah@outlook.com
+C0518,Fatima Nwosu,08113354366,Rano,R10,Nigeria,Retail,3315520,25-02-22,fatima.nwosu@gmail.com
+C0872,Olumide Obiora,08104208632,Sagamu,R02,Nigeria,Retail,337765,31-12-22,o.obiora@outlook.com
+C0662,Delta Tukur & Associates,08182704089,Kaduna,R11,Nigeria,Corporate,1610859,04-09-21,babatunde.tukur@company.ng
+C0156,Apex Ringim Enterprises,0806 8439496,Warri,R07,Nigeria,Corporate,1548631,07-01-18,halima34@yahoo.com
+C0900,Halima Eze,0807 7004687,Ijebu-Ode,R02,Nigeria,Retail,2726284,17-10-20,halima.eze@gmail.com
+C0306,Olumide Makarfi,08175877935,Abeokuta,R02,Nigeria,Wholesale,3265539,16-02-21,olumide83@yahoo.com
+C0493,Olamide Makarfi,08021245146,Oyo,R03,Nigeria,Retail,4318708,21-06-21,o.makarfi@outlook.com
+C1052,Nnamdi Umar,0819 9943301,Abeokuta,R02,Nigeria,Retail,4902407,18-02-22,n.umar@outlook.com
+C0350,Kenechukwu Eze,08027402898,Kaltungo,R13,Nigeria,Retail,2658002,15-10-18,kenechukwu.eze@company.ng
+C0859,Abuja Waziri Resources Ltd,08051204162,Kafanchan,R11,Nigeria,Corporate,3898259,15-07-18,nkechi81@yahoo.com
+C1187,Ramat Nzeka,08035316903,Ogbomoso,R03,Nigeria,Retail,4788716,13-01-19,r.nzeka@outlook.com
+C0122,Maryam Agbo,0807 7919701,Lokoja,R09,Nigeria,Wholesale,4110831,09-05-19,maryam.agbo@company.ng
+C0069,Chioma Onyekachi,08066427240,Bonny,R06,Nigeria,Retail,4540336,05-02-20,chioma.onyekachi@gmail.com
+C0365,Chibuzor Garba,08145491308,Oyo,R03,Nigeria,Wholesale,3757439,04-01-20,chibuzor54@yahoo.com
+C0669,Safiya Onuoha,0818 3373976,Asaba,R07,Nigeria,Retail,1497877,06-05-19,s.onuoha@outlook.com
+C0155,Obinna Ringim,08037412135,Enugu,R04,Nigeria,Wholesale,3877477,30-07-19,obinna85@yahoo.com
+C0560,Chinonso Anyanwu,08114871258,Oyo,R03,Nigeria,Retail,1397243,19-07-20,chinonso70@yahoo.com
+C0921,Adaeze Dikko,08034778694,Ikeja,R01,Nigeria,Retail,206174,23-11-22,adaeze.dikko@gmail.com
+C1064,Gateway Waziri & Associates,08105907115,Gwoza,R12,Nigeria,Corporate,3315337,30-04-23,nnamdi74@yahoo.com
+C1063,Olamide Okoro,08037726153,Enugu,R04,Nigeria,Retail,379734,13-12-21,o.okoro@outlook.com
+C0933,Modupe Hassan,08153975748,Ibadan,R03,Nigeria,Retail,2170507,01-09-23,modupe.hassan@gmail.com
+C0761,Ifeanyi Ihejirika,08128830289,Apapa,R01,Nigeria,Wholesale,1082631,04-01-18,i.ihejirika@outlook.com
+C0134,Nkechi Agbo,Unknown,Okene,R09,Nigeria,Wholesale,1601846,05-12-18,nkechi.agbo@company.ng
+C0516,Nkechi Danladi,08121369662,Lokoja,R09,Nigeria,Wholesale,3610215,04-09-19,nkechi.danladi@company.ng
+C0847,Ikechukwu Abubakar,08184731982,Kaltungo,R13,Nigeria,Wholesale,345586,01-05-18,ikechukwu.abubakar@gmail.com
+C0400,Maryam Osei,08194463379,Awka,R05,Nigeria,Retail,1267822,27-12-18,m.osei@outlook.com
+C0854,Halima Abubakar,0819 1278960,Ijebu-Ode,R02,Nigeria,Retail,2395181,16-07-21,halima84@yahoo.com
+C0442,Unity Chukwu & Associates,08078735364,Abeokuta,R02,Nigeria,Unknown Segment,4376747,23-01-21,amarachi.chukwu@gmail.com
+C0268,Rukayat Abubakar,08024736835,Onitsha,R05,Nigeria,Retail,3864432,30-10-19,rukayat22@yahoo.com
+C0121,Olamide Nwachukwu,08073664147,Lugbe,R08,Nigeria,Retail,2401360,05-11-22,o.nwachukwu@outlook.com
+C0936,Zainab Okonkwo,08066524106,Ijebu-Ode,R02,Nigeria,Retail,2506805,11-11-21,zainab.okonkwo@gmail.com
+C0722,Delta Anozie & Sons,08066267620,Ogbomoso,R03,Nigeria,Corporate,4243383,23-07-19,t.anozie@outlook.com
+C0908,Rukayat Agbo,08037141491,Gwoza,R12,Nigeria,Wholesale,3685277,20-11-18,rukayat.agbo@gmail.com
+C1005,Kano Okonkwu Enterprises,08145154393,Lagos,R01,Nigeria,Corporate,1919437,04-04-22,s.okonkwu@outlook.com
+C0772,Abuja Abubakar Ltd,0806 6365714,Lokoja,R09,Nigeria,Corporate,3501434,26-05-23,chidi.abubakar@company.ng
+C0780,Nkechi Tukur,08169050235,Enugu,R04,Nigeria,Retail,3099287,02-05-19,nkechi.tukur@company.ng
+C0307,Amina Adeyemi,08034396485,Asaba,R07,Nigeria,Retail,809641,06-06-21,a.adeyemi@outlook.com
+C0150,Chidi Nwachukwu,08094465407,Okene,R09,Nigeria,SME,2727099,11-01-21,chidi.nwachukwu@company.ng
+C1004,Safiya Nwosu,0809 1894304,Gwagwalada,R08,Nigeria,Retail,573902,27-06-20,safiya.nwosu@company.ng
+C0574,Niger Chukwu Nigeria Ltd,08117927463,Enugu,R04,Nigeria,Corporate,2188904,14-09-19,yewande73@yahoo.com
+C0265,Blessing Chibueze,08038823688,Biu,R12,Nigeria,Retail,3144426,17-05-19,blessing.chibueze@gmail.com
+C0822,Lawal Chukwu,08121821371,Agbor,R07,Nigeria,SME,2790289,24-07-22,lawal.chukwu@company.ng
+C0597,Bilkisu Anozie,08059085791,Abeokuta,R02,Nigeria,Retail,1430333,06-07-18,bilkisu.anozie@company.ng
+C0875,Olamide Ihejirika,08193518603,Dukku,R13,Nigeria,Retail,4789448,24-09-18,o.ihejirika@outlook.com
+C1105,Adeola Hassan,08178794959,Agbor,R07,Nigeria,Retail,691073,06-10-21,adeola.hassan@gmail.com
+C0821,Yetunde Onuoha,08108822569,Nsukka,R04,Nigeria,Retail,2469499,29-01-23,yetunde18@yahoo.com
+C0105,Rukayat Obi,08104855922,Ijebu-Ode,R02,Nigeria,Wholesale,3671902,21-04-21,rukayat.obi@company.ng
+C0472,Maryam Garba,0808 7953806,Kaltungo,R13,Nigeria,Retail,3133242,08-11-18,maryam.garba@gmail.com
+C0395,Yetunde Okonkwo,08185207007,Kano,R10,Nigeria,Retail,4416458,28-11-20,yetunde.okonkwo@gmail.com
+C0002,Tochukwu Babangida,0808 3912159,Sapele,R07,Nigeria,Retail,4115455,07-06-21,tochukwu21@yahoo.com
+C0045,Chidi Yusuf,08029773483,Ekwulobia,R05,Nigeria,Retail,284158,02-06-22,chidi87@yahoo.com
+C1109,Yewande Abubakar,08072328960,Gwoza,R12,Nigeria,Retail,4575443,10-02-20,yewande15@yahoo.com
+C1060,Unity Nzeka Resources Ltd,08087131643,Ikeja,R01,Nigeria,Corporate,228894,08-02-21,chukwuemeka.nzeka@gmail.com
+C0770,Uche Osei,08128999602,Osogbo,R03,Nigeria,Retail,1348144,15-08-21,uche.osei@gmail.com
+C0696,Greenfield Ihejirika Trading Co.,08154000916,Okene,R09,Nigeria,Corporate,583505,19-10-20,u.ihejirika@outlook.com
+C1117,Khadijah Anyanwu,0811 4777547,Awka,R05,Nigeria,Wholesale,3769764,22-03-18,khadijah.anyanwu@gmail.com
+C0511,Funmilayo Dikko,08053890236,Osogbo,R03,Nigeria,Wholesale,1791799,12-08-18,funmilayo.dikko@company.ng
+C1031,Uchenna Tukur,08039703873,Sapele,R07,Nigeria,Retail,4402523,19-11-21,uchenna.tukur@gmail.com
+C0127,Amarachi Ihejirika,08067179884,Nnewi,R05,Nigeria,Wholesale,2941726,03-12-18,amarachi.ihejirika@gmail.com
+C0733,Modupe Okeke,08101558036,Ibadan,R03,Nigeria,Wholesale,1244950,22-01-19,m.okeke@outlook.com
+C0504,Horizon Obi Integrated Services,08032239283,Abuja,R08,Nigeria,Corporate,2523061,14-09-22,ezinne.obi@company.ng
+C0953,Sunrise Funtua Global Ventures,0810 2227367,Zaria,R11,Nigeria,Corporate,2157032,24-11-21,halima20@yahoo.com
+C0379,Uche Onyekachi,08028933889,Warri,R07,Nigeria,Retail,3689731,06-12-21,uche.onyekachi@gmail.com
+C0958,Unity Agbo Enterprises,0816 2913999,Onitsha,R05,Nigeria,Corporate,2185789,11-08-22,babatunde.agbo@gmail.com
+C0633,Chibuzor Ringim,08196776661,Ekwulobia,R05,Nigeria,Retail,2167279,02-10-19,chibuzor.ringim@gmail.com
+C0611,Rukayat Obiora,08026316736,Ijebu-Ode,R02,Nigeria,Wholesale,4722759,20-01-19,rukayat.obiora@gmail.com
+C1001,Unity Funtua & Associates,0816 2146084,Ekwulobia,R05,Nigeria,Corporate,3189942,26-08-18,sochima.funtua@gmail.com
+C1094,Chibuzor Garba,08071921028,Kuje,R08,Nigeria,Retail,2788003,29-01-18,c.garba@outlook.com
+C0182,Maryam Garba,08097673428,Awka,R05,Nigeria,Wholesale,4947963,17-12-19,maryam78@yahoo.com
+C0327,Greenfield Ringim Ltd,08024879627,Oyo,R03,Nigeria,Corporate,4683909,29-03-21,folake.ringim@company.ng
+C0439,Adewale Anyanwu,0801 8912484,Enugu,R04,Nigeria,Retail,500359,07-02-22,a.anyanwu@outlook.com
+C0965,Zainab Abdullahi,08111905881,Gwoza,R12,Nigeria,SME,4857351,06-06-20,z.abdullahi@outlook.com
+C0823,Techbase Okeke Nigeria Ltd,08023806308,Abuja,R08,Nigeria,Corporate,4276582,20-12-19,l.okeke@outlook.com
+C0488,Chinonso Nwankwo,08025971535,Warri,R07,Nigeria,Retail,1028112,21-12-22,c.nwankwo@outlook.com
+C0744,Chinedu Lawal,08158200915,Enugu,R04,Nigeria,Retail,1379028,05-03-18,chinedu.lawal@company.ng
+C0850,Emeka Nwankwo,08031691113,Okene,R09,Nigeria,Retail,2990965,10-11-20,emeka.nwankwo@company.ng
+C0369,Safiya Okonkwo,08101580281,Agbor,R07,Nigeria,Retail,1796100,12-09-20,safiya.okonkwo@company.ng
+C0690,Peak Musa & Associates,08077040044,Kaduna,R11,Nigeria,Corporate,3470246,28-06-19,damilola.musa@company.ng
+C0383,Ifeanyi Agbo,Unknown,Maiduguri,R12,Nigeria,Retail,4536824,28-06-23,i.agbo@outlook.com
+C0922,Uche Nwankwo,08157284045,Lokoja,R09,Nigeria,Retail,3531514,25-01-22,uche.nwankwo@gmail.com
+C0759,Chibuzor Babangida,08036951784,Oji River,R04,Nigeria,Wholesale,1532330,20-12-20,chibuzor40@yahoo.com
+C0794,Bilkisu Obiora,Unknown,Osogbo,R03,Nigeria,Wholesale,3071261,14-03-19,Invalid Email
+C0737,Aisha Ibrahim,08171703879,Gwoza,R12,Nigeria,Retail,84159,19-02-21,aisha.ibrahim@company.ng
+C1074,Nnamdi Agbo,08056295566,Surulere,R01,Nigeria,Retail,3788427,20-11-19,nnamdi24@yahoo.com
+C0895,Horizon Okeke Ltd,08055241396,Abeokuta,R02,Nigeria,Corporate,3270453,23-06-23,safiya4@yahoo.com
+C0561,Abdullahi Osei,08149075822,Apapa,R01,Nigeria,SME,1095307,16-11-21,abdullahi.osei@company.ng
+C0345,Babatunde Danladi,0818 3096265,Kuje,R08,Nigeria,Retail,4859206,04-01-21,babatunde9@yahoo.com
+C0243,Folake Okoro,0809 4382032,Kaduna,R11,Nigeria,Wholesale,3247857,06-07-21,folake.okoro@gmail.com
+C0278,Modupe Abdullahi,08151192075,Osogbo,R03,Nigeria,Wholesale,2657798,29-11-19,modupe23@yahoo.com
+C0464,Adeola Aliyu,08193686811,Onitsha,R05,Nigeria,SME,4817900,28-07-19,adeola.aliyu@gmail.com
+C0654,Nnamdi Shehu,08126041960,Obio-Akpor,R06,Nigeria,Retail,4512550,12-11-22,nnamdi39@yahoo.com
+C0093,Chioma Suleiman,08012212008,Ikeja,R01,Nigeria,Retail,1593919,30-07-20,chioma56@yahoo.com
+C0396,Ramatu Abubakar,0812 3781761,Gwagwalada,R08,Nigeria,Retail,3061570,26-05-21,ramatu.abubakar@gmail.com
+C0311,Zainab Aliyu,08026301912,Ogbomoso,R03,Nigeria,Retail,1920573,29-04-18,zainab.aliyu@gmail.com
+C0387,Adaeze Mbah,08189670058,Osogbo,R03,Nigeria,Retail,4113419,23-07-20,adaeze10@yahoo.com
+C1013,Sochima Ringim,08132038265,Maiduguri,R12,Nigeria,Wholesale,4667696,21-02-20,s.ringim@outlook.com
+C0088,Tochukwu Ringim,08166239213,Abeokuta,R02,Nigeria,SME,2845955,09-10-22,t.ringim@outlook.com
+C1157,Gbemisola Okeke,08143266596,Ijebu-Ode,R02,Nigeria,Wholesale,319003,21-02-20,gbemisola75@yahoo.com
+C1080,Ekene Ihejirika,08166335143,Gwagwalada,R08,Nigeria,Retail,1530489,13-02-18,ekene32@yahoo.com
+C0986,Ejike Onyekachi,08034397459,Gombe,R13,Nigeria,Retail,3159534,17-09-19,e.onyekachi@outlook.com
+C0214,Olamide Onuoha,08093702953,Onitsha,R05,Nigeria,Retail,4665788,29-05-20,olamide.onuoha@gmail.com
+C0711,Amina Obi,08185662361,Biu,R12,Nigeria,Wholesale,1291575,08-08-19,a.obi@outlook.com
+C0021,Yetunde Kwankwaso,0807 1101463,Enugu,R04,Nigeria,SME,3350226,02-12-22,y.kwankwaso@outlook.com
+C0866,Ezinne Nwosu,0812 5846387,Bonny,R06,Nigeria,Wholesale,4550029,05-05-23,ezinne.nwosu@company.ng
+C0916,Chibuzor Kankara,0813 3408249,Maiduguri,R12,Nigeria,Wholesale,4257038,21-12-22,chibuzor.kankara@gmail.com
+C0288,Ramatu Ibrahim,08147157247,Okene,R09,Nigeria,SME,4714583,08-05-22,r.ibrahim@outlook.com
+C0484,Fatima Anozie,08103051740,Rano,R10,Nigeria,Retail,4855374,14-08-19,f.anozie@outlook.com
+C0161,Uche Dikko,08116473712,Bonny,R06,Nigeria,SME,4898559,08-10-19,uche.dikko@company.ng
+C0011,Somtochukwu Musa,08142381585,Bonny,R06,Nigeria,Wholesale,1262849,16-04-19,somtochukwu10@yahoo.com
+C0124,Funmilayo Osei,08087687574,Bonny,R06,Nigeria,Retail,2343475,14-02-22,funmilayo.osei@company.ng
+C0019,Somtochukwu Makarfi,08173284771,Kaltungo,R13,Nigeria,Retail,323304,05-09-22,somtochukwu.makarfi@gmail.com
+C0621,Yewande Nwachukwu,08141426003,Wudil,R10,Nigeria,Retail,1960498,16-08-21,y.nwachukwu@outlook.com
+C1139,Abdullahi Makarfi,08199425114,Warri,R07,Nigeria,Retail,4847763,31-08-19,a.makarfi@outlook.com
+C1059,Kano Hassan & Associates,08139700586,Ekwulobia,R05,Nigeria,Corporate,3757727,06-12-19,yahaya11@yahoo.com
+C0176,Hauwa Musa,Unknown,Gwoza,R12,Nigeria,SME,1736737,22-06-18,h.musa@outlook.com
+C0186,Olumide Okafor,08039106733,Kuje,R08,Nigeria,Retail,2370222,18-11-19,olumide.okafor@gmail.com
+C0664,Chibuzor Obi,0810 6130679,Gombe,R13,Nigeria,Wholesale,3962141,24-03-19,chibuzor.obi@company.ng
+C0283,Delta Nwankwo Global Ventures,08154271138,Oji River,R04,Nigeria,Corporate,4711346,06-02-20,a.nwankwo@outlook.com
+C0074,Titilayo Gwarzo,08014274839,Lokoja,R09,Nigeria,SME,856138,10-08-19,t.gwarzo@outlook.com

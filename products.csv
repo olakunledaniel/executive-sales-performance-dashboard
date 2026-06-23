@@ -1,0 +1,20 @@
+ProductID,Product Name,Category,Supplier,Cost Price (NGN),Selling Price (NGN),Stock Qty,Rating
+P001,Laptop,Electronics,TechVendors Ltd,375292,382182,78,3.7
+P002,Office Chair,Furniture,FurnishCo Nigeria,39852,48945,352,3.3
+P003,Bluetooth Headphones,Electronics,TechVendors Ltd,12759,21697,455,3.3
+P004,Executive Desk,Furniture,FurnishCo Nigeria,86147,96310,396,4.6
+P005,Laser Printer,Electronics,PrintPlus Abuja,144454,169893,452,3.7
+P006,Reams of Paper (Box),Stationery,StatSupply Ltd,5194,27994,446,4.9
+P007,Ballpoint Pens (Pack),Stationery,StatSupply Ltd,1480,26363,0,
+P008,LED Monitor 24in,Electronics,TechVendors Ltd,87029,114524,90,4.1
+P009,Steel Filing Cabinet,Furniture,FurnishCo Nigeria,31927,60123,152,3.5
+P010,mechanical keyboard,Electronics,TechVendors Ltd,9908,31746,156,3.5
+P011,Wireless Mouse,Electronics,TechVendors Ltd,3711,29708,204,3.9
+P012,Whiteboard 4x3ft,Stationery,StatSupply Ltd,9990,31759,462,4.3
+P013,Conference Table,Furniture,FurnishCo Nigeria,170876,197918,0,4.2
+P014,4-Port USB Hub,Electronics,TechVendors Ltd,4068,31824,154,3.5
+P016,Air Conditioner 1.5HP,Electrical,CoolBreeze Ltd,190915,205511,450,4.5
+P017,Office Refrigerator,Electrical,CoolBreeze Ltd,102283,110085,259,4.3
+P018,CCTV Camera Kit,Electronics,SecureTech Ltd,104482,110109,453,4.6
+P019,Intercom System,Electronics,SecureTech Ltd,45739,58098,419,4.1
+P020,UPS 1KVA,Electrical,PowerGen Nigeria,36132,51474,421,3.7
